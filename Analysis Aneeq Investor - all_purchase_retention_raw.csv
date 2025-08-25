@@ -129,32 +129,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,category,otc hl,10,same,2,0.00%
 2025-07-01,category,otc hl,11,same,2,0.00%
 2025-07-01,category,otc hl,12,same,2,0.00%
-2025-08-01,category,otc hl,0,any,1,100.00%
-2025-08-01,category,otc hl,1,any,1,0.00%
-2025-08-01,category,otc hl,2,any,1,0.00%
-2025-08-01,category,otc hl,3,any,1,0.00%
-2025-08-01,category,otc hl,4,any,1,0.00%
-2025-08-01,category,otc hl,5,any,1,0.00%
-2025-08-01,category,otc hl,6,any,1,0.00%
-2025-08-01,category,otc hl,7,any,1,0.00%
-2025-08-01,category,otc hl,8,any,1,0.00%
-2025-08-01,category,otc hl,9,any,1,0.00%
-2025-08-01,category,otc hl,10,any,1,0.00%
-2025-08-01,category,otc hl,11,any,1,0.00%
-2025-08-01,category,otc hl,12,any,1,0.00%
-2025-08-01,category,otc hl,0,same,1,100.00%
-2025-08-01,category,otc hl,1,same,1,0.00%
-2025-08-01,category,otc hl,2,same,1,0.00%
-2025-08-01,category,otc hl,3,same,1,0.00%
-2025-08-01,category,otc hl,4,same,1,0.00%
-2025-08-01,category,otc hl,5,same,1,0.00%
-2025-08-01,category,otc hl,6,same,1,0.00%
-2025-08-01,category,otc hl,7,same,1,0.00%
-2025-08-01,category,otc hl,8,same,1,0.00%
-2025-08-01,category,otc hl,9,same,1,0.00%
-2025-08-01,category,otc hl,10,same,1,0.00%
-2025-08-01,category,otc hl,11,same,1,0.00%
-2025-08-01,category,otc hl,12,same,1,0.00%
 2024-11-01,category,otc sh,0,any,1,100.00%
 2024-11-01,category,otc sh,1,any,1,0.00%
 2024-11-01,category,otc sh,2,any,1,0.00%
@@ -546,37 +520,37 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2024-11-01,category,pom hl,11,same,3,0.00%
 2024-11-01,category,pom hl,12,same,3,0.00%
 2024-12-01,category,pom hl,0,any,15,100.00%
-2024-12-01,category,pom hl,1,any,15,73.33%
+2024-12-01,category,pom hl,1,any,15,80.00%
 2024-12-01,category,pom hl,2,any,15,80.00%
-2024-12-01,category,pom hl,3,any,15,73.33%
-2024-12-01,category,pom hl,4,any,15,80.00%
+2024-12-01,category,pom hl,3,any,15,80.00%
+2024-12-01,category,pom hl,4,any,15,86.67%
 2024-12-01,category,pom hl,5,any,15,73.33%
-2024-12-01,category,pom hl,6,any,15,46.67%
-2024-12-01,category,pom hl,7,any,15,40.00%
-2024-12-01,category,pom hl,8,any,15,20.00%
+2024-12-01,category,pom hl,6,any,15,53.33%
+2024-12-01,category,pom hl,7,any,15,53.33%
+2024-12-01,category,pom hl,8,any,15,26.67%
 2024-12-01,category,pom hl,9,any,15,0.00%
 2024-12-01,category,pom hl,10,any,15,0.00%
 2024-12-01,category,pom hl,11,any,15,0.00%
 2024-12-01,category,pom hl,12,any,15,0.00%
 2024-12-01,category,pom hl,0,same,15,93.33%
-2024-12-01,category,pom hl,1,same,15,73.33%
+2024-12-01,category,pom hl,1,same,15,80.00%
 2024-12-01,category,pom hl,2,same,15,80.00%
-2024-12-01,category,pom hl,3,same,15,73.33%
-2024-12-01,category,pom hl,4,same,15,80.00%
+2024-12-01,category,pom hl,3,same,15,80.00%
+2024-12-01,category,pom hl,4,same,15,86.67%
 2024-12-01,category,pom hl,5,same,15,73.33%
-2024-12-01,category,pom hl,6,same,15,46.67%
-2024-12-01,category,pom hl,7,same,15,33.33%
-2024-12-01,category,pom hl,8,same,15,20.00%
+2024-12-01,category,pom hl,6,same,15,53.33%
+2024-12-01,category,pom hl,7,same,15,46.67%
+2024-12-01,category,pom hl,8,same,15,26.67%
 2024-12-01,category,pom hl,9,same,15,0.00%
 2024-12-01,category,pom hl,10,same,15,0.00%
 2024-12-01,category,pom hl,11,same,15,0.00%
 2024-12-01,category,pom hl,12,same,15,0.00%
 2025-01-01,category,pom hl,0,any,5,100.00%
-2025-01-01,category,pom hl,1,any,5,80.00%
-2025-01-01,category,pom hl,2,any,5,80.00%
-2025-01-01,category,pom hl,3,any,5,20.00%
-2025-01-01,category,pom hl,4,any,5,20.00%
-2025-01-01,category,pom hl,5,any,5,20.00%
+2025-01-01,category,pom hl,1,any,5,100.00%
+2025-01-01,category,pom hl,2,any,5,100.00%
+2025-01-01,category,pom hl,3,any,5,40.00%
+2025-01-01,category,pom hl,4,any,5,40.00%
+2025-01-01,category,pom hl,5,any,5,40.00%
 2025-01-01,category,pom hl,6,any,5,20.00%
 2025-01-01,category,pom hl,7,any,5,20.00%
 2025-01-01,category,pom hl,8,any,5,0.00%
@@ -585,11 +559,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-01-01,category,pom hl,11,any,5,0.00%
 2025-01-01,category,pom hl,12,any,5,0.00%
 2025-01-01,category,pom hl,0,same,5,100.00%
-2025-01-01,category,pom hl,1,same,5,80.00%
-2025-01-01,category,pom hl,2,same,5,80.00%
-2025-01-01,category,pom hl,3,same,5,20.00%
-2025-01-01,category,pom hl,4,same,5,20.00%
-2025-01-01,category,pom hl,5,same,5,20.00%
+2025-01-01,category,pom hl,1,same,5,100.00%
+2025-01-01,category,pom hl,2,same,5,100.00%
+2025-01-01,category,pom hl,3,same,5,40.00%
+2025-01-01,category,pom hl,4,same,5,40.00%
+2025-01-01,category,pom hl,5,same,5,40.00%
 2025-01-01,category,pom hl,6,same,5,20.00%
 2025-01-01,category,pom hl,7,same,5,20.00%
 2025-01-01,category,pom hl,8,same,5,0.00%
@@ -598,11 +572,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-01-01,category,pom hl,11,same,5,0.00%
 2025-01-01,category,pom hl,12,same,5,0.00%
 2025-02-01,category,pom hl,0,any,10,100.00%
-2025-02-01,category,pom hl,1,any,10,80.00%
-2025-02-01,category,pom hl,2,any,10,70.00%
-2025-02-01,category,pom hl,3,any,10,40.00%
+2025-02-01,category,pom hl,1,any,10,100.00%
+2025-02-01,category,pom hl,2,any,10,80.00%
+2025-02-01,category,pom hl,3,any,10,50.00%
 2025-02-01,category,pom hl,4,any,10,50.00%
-2025-02-01,category,pom hl,5,any,10,30.00%
+2025-02-01,category,pom hl,5,any,10,40.00%
 2025-02-01,category,pom hl,6,any,10,10.00%
 2025-02-01,category,pom hl,7,any,10,0.00%
 2025-02-01,category,pom hl,8,any,10,0.00%
@@ -611,11 +585,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-02-01,category,pom hl,11,any,10,0.00%
 2025-02-01,category,pom hl,12,any,10,0.00%
 2025-02-01,category,pom hl,0,same,10,100.00%
-2025-02-01,category,pom hl,1,same,10,80.00%
-2025-02-01,category,pom hl,2,same,10,70.00%
-2025-02-01,category,pom hl,3,same,10,40.00%
+2025-02-01,category,pom hl,1,same,10,100.00%
+2025-02-01,category,pom hl,2,same,10,80.00%
+2025-02-01,category,pom hl,3,same,10,50.00%
 2025-02-01,category,pom hl,4,same,10,50.00%
-2025-02-01,category,pom hl,5,same,10,30.00%
+2025-02-01,category,pom hl,5,same,10,40.00%
 2025-02-01,category,pom hl,6,same,10,10.00%
 2025-02-01,category,pom hl,7,same,10,0.00%
 2025-02-01,category,pom hl,8,same,10,0.00%
@@ -624,12 +598,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-02-01,category,pom hl,11,same,10,0.00%
 2025-02-01,category,pom hl,12,same,10,0.00%
 2025-03-01,category,pom hl,0,any,46,100.00%
-2025-03-01,category,pom hl,1,any,46,58.70%
-2025-03-01,category,pom hl,2,any,46,52.17%
-2025-03-01,category,pom hl,3,any,46,47.83%
-2025-03-01,category,pom hl,4,any,46,45.65%
-2025-03-01,category,pom hl,5,any,46,8.70%
-2025-03-01,category,pom hl,6,any,46,0.00%
+2025-03-01,category,pom hl,1,any,46,73.91%
+2025-03-01,category,pom hl,2,any,46,60.87%
+2025-03-01,category,pom hl,3,any,46,56.52%
+2025-03-01,category,pom hl,4,any,46,54.35%
+2025-03-01,category,pom hl,5,any,46,17.39%
+2025-03-01,category,pom hl,6,any,46,4.35%
 2025-03-01,category,pom hl,7,any,46,0.00%
 2025-03-01,category,pom hl,8,any,46,0.00%
 2025-03-01,category,pom hl,9,any,46,0.00%
@@ -637,12 +611,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,category,pom hl,11,any,46,0.00%
 2025-03-01,category,pom hl,12,any,46,0.00%
 2025-03-01,category,pom hl,0,same,46,100.00%
-2025-03-01,category,pom hl,1,same,46,56.52%
-2025-03-01,category,pom hl,2,same,46,52.17%
-2025-03-01,category,pom hl,3,same,46,47.83%
-2025-03-01,category,pom hl,4,same,46,45.65%
-2025-03-01,category,pom hl,5,same,46,6.52%
-2025-03-01,category,pom hl,6,same,46,0.00%
+2025-03-01,category,pom hl,1,same,46,73.91%
+2025-03-01,category,pom hl,2,same,46,60.87%
+2025-03-01,category,pom hl,3,same,46,56.52%
+2025-03-01,category,pom hl,4,same,46,54.35%
+2025-03-01,category,pom hl,5,same,46,15.22%
+2025-03-01,category,pom hl,6,same,46,4.35%
 2025-03-01,category,pom hl,7,same,46,0.00%
 2025-03-01,category,pom hl,8,same,46,0.00%
 2025-03-01,category,pom hl,9,same,46,0.00%
@@ -650,12 +624,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,category,pom hl,11,same,46,0.00%
 2025-03-01,category,pom hl,12,same,46,0.00%
 2025-04-01,category,pom hl,0,any,71,100.00%
-2025-04-01,category,pom hl,1,any,71,42.25%
-2025-04-01,category,pom hl,2,any,71,45.07%
-2025-04-01,category,pom hl,3,any,71,49.30%
-2025-04-01,category,pom hl,4,any,71,12.68%
-2025-04-01,category,pom hl,5,any,71,0.00%
-2025-04-01,category,pom hl,6,any,71,0.00%
+2025-04-01,category,pom hl,1,any,71,73.24%
+2025-04-01,category,pom hl,2,any,71,61.97%
+2025-04-01,category,pom hl,3,any,71,57.75%
+2025-04-01,category,pom hl,4,any,71,29.58%
+2025-04-01,category,pom hl,5,any,71,14.08%
+2025-04-01,category,pom hl,6,any,71,1.41%
 2025-04-01,category,pom hl,7,any,71,0.00%
 2025-04-01,category,pom hl,8,any,71,0.00%
 2025-04-01,category,pom hl,9,any,71,0.00%
@@ -663,12 +637,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,category,pom hl,11,any,71,0.00%
 2025-04-01,category,pom hl,12,any,71,0.00%
 2025-04-01,category,pom hl,0,same,71,100.00%
-2025-04-01,category,pom hl,1,same,71,42.25%
-2025-04-01,category,pom hl,2,same,71,45.07%
-2025-04-01,category,pom hl,3,same,71,49.30%
-2025-04-01,category,pom hl,4,same,71,12.68%
-2025-04-01,category,pom hl,5,same,71,0.00%
-2025-04-01,category,pom hl,6,same,71,0.00%
+2025-04-01,category,pom hl,1,same,71,73.24%
+2025-04-01,category,pom hl,2,same,71,61.97%
+2025-04-01,category,pom hl,3,same,71,57.75%
+2025-04-01,category,pom hl,4,same,71,29.58%
+2025-04-01,category,pom hl,5,same,71,14.08%
+2025-04-01,category,pom hl,6,same,71,1.41%
 2025-04-01,category,pom hl,7,same,71,0.00%
 2025-04-01,category,pom hl,8,same,71,0.00%
 2025-04-01,category,pom hl,9,same,71,0.00%
@@ -676,11 +650,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,category,pom hl,11,same,71,0.00%
 2025-04-01,category,pom hl,12,same,71,0.00%
 2025-05-01,category,pom hl,0,any,75,100.00%
-2025-05-01,category,pom hl,1,any,75,53.33%
-2025-05-01,category,pom hl,2,any,75,49.33%
-2025-05-01,category,pom hl,3,any,75,12.00%
-2025-05-01,category,pom hl,4,any,75,0.00%
-2025-05-01,category,pom hl,5,any,75,0.00%
+2025-05-01,category,pom hl,1,any,75,80.00%
+2025-05-01,category,pom hl,2,any,75,68.00%
+2025-05-01,category,pom hl,3,any,75,22.67%
+2025-05-01,category,pom hl,4,any,75,6.67%
+2025-05-01,category,pom hl,5,any,75,4.00%
 2025-05-01,category,pom hl,6,any,75,0.00%
 2025-05-01,category,pom hl,7,any,75,0.00%
 2025-05-01,category,pom hl,8,any,75,0.00%
@@ -689,11 +663,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,category,pom hl,11,any,75,0.00%
 2025-05-01,category,pom hl,12,any,75,0.00%
 2025-05-01,category,pom hl,0,same,75,100.00%
-2025-05-01,category,pom hl,1,same,75,53.33%
-2025-05-01,category,pom hl,2,same,75,49.33%
-2025-05-01,category,pom hl,3,same,75,12.00%
-2025-05-01,category,pom hl,4,same,75,0.00%
-2025-05-01,category,pom hl,5,same,75,0.00%
+2025-05-01,category,pom hl,1,same,75,80.00%
+2025-05-01,category,pom hl,2,same,75,68.00%
+2025-05-01,category,pom hl,3,same,75,22.67%
+2025-05-01,category,pom hl,4,same,75,6.67%
+2025-05-01,category,pom hl,5,same,75,4.00%
 2025-05-01,category,pom hl,6,same,75,0.00%
 2025-05-01,category,pom hl,7,same,75,0.00%
 2025-05-01,category,pom hl,8,same,75,0.00%
@@ -702,10 +676,10 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,category,pom hl,11,same,75,0.00%
 2025-05-01,category,pom hl,12,same,75,0.00%
 2025-06-01,category,pom hl,0,any,70,100.00%
-2025-06-01,category,pom hl,1,any,70,51.43%
-2025-06-01,category,pom hl,2,any,70,15.71%
-2025-06-01,category,pom hl,3,any,70,0.00%
-2025-06-01,category,pom hl,4,any,70,0.00%
+2025-06-01,category,pom hl,1,any,70,80.00%
+2025-06-01,category,pom hl,2,any,70,35.71%
+2025-06-01,category,pom hl,3,any,70,7.14%
+2025-06-01,category,pom hl,4,any,70,1.43%
 2025-06-01,category,pom hl,5,any,70,0.00%
 2025-06-01,category,pom hl,6,any,70,0.00%
 2025-06-01,category,pom hl,7,any,70,0.00%
@@ -715,10 +689,10 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,category,pom hl,11,any,70,0.00%
 2025-06-01,category,pom hl,12,any,70,0.00%
 2025-06-01,category,pom hl,0,same,70,100.00%
-2025-06-01,category,pom hl,1,same,70,51.43%
-2025-06-01,category,pom hl,2,same,70,15.71%
-2025-06-01,category,pom hl,3,same,70,0.00%
-2025-06-01,category,pom hl,4,same,70,0.00%
+2025-06-01,category,pom hl,1,same,70,80.00%
+2025-06-01,category,pom hl,2,same,70,35.71%
+2025-06-01,category,pom hl,3,same,70,7.14%
+2025-06-01,category,pom hl,4,same,70,1.43%
 2025-06-01,category,pom hl,5,same,70,0.00%
 2025-06-01,category,pom hl,6,same,70,0.00%
 2025-06-01,category,pom hl,7,same,70,0.00%
@@ -728,9 +702,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,category,pom hl,11,same,70,0.00%
 2025-06-01,category,pom hl,12,same,70,0.00%
 2025-07-01,category,pom hl,0,any,70,100.00%
-2025-07-01,category,pom hl,1,any,70,14.29%
-2025-07-01,category,pom hl,2,any,70,0.00%
-2025-07-01,category,pom hl,3,any,70,0.00%
+2025-07-01,category,pom hl,1,any,70,65.71%
+2025-07-01,category,pom hl,2,any,70,41.43%
+2025-07-01,category,pom hl,3,any,70,1.43%
 2025-07-01,category,pom hl,4,any,70,0.00%
 2025-07-01,category,pom hl,5,any,70,0.00%
 2025-07-01,category,pom hl,6,any,70,0.00%
@@ -741,9 +715,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,category,pom hl,11,any,70,0.00%
 2025-07-01,category,pom hl,12,any,70,0.00%
 2025-07-01,category,pom hl,0,same,70,100.00%
-2025-07-01,category,pom hl,1,same,70,14.29%
-2025-07-01,category,pom hl,2,same,70,0.00%
-2025-07-01,category,pom hl,3,same,70,0.00%
+2025-07-01,category,pom hl,1,same,70,65.71%
+2025-07-01,category,pom hl,2,same,70,41.43%
+2025-07-01,category,pom hl,3,same,70,1.43%
 2025-07-01,category,pom hl,4,same,70,0.00%
 2025-07-01,category,pom hl,5,same,70,0.00%
 2025-07-01,category,pom hl,6,same,70,0.00%
@@ -753,32 +727,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,category,pom hl,10,same,70,0.00%
 2025-07-01,category,pom hl,11,same,70,0.00%
 2025-07-01,category,pom hl,12,same,70,0.00%
-2025-08-01,category,pom hl,0,any,19,100.00%
-2025-08-01,category,pom hl,1,any,19,0.00%
-2025-08-01,category,pom hl,2,any,19,0.00%
-2025-08-01,category,pom hl,3,any,19,0.00%
-2025-08-01,category,pom hl,4,any,19,0.00%
-2025-08-01,category,pom hl,5,any,19,0.00%
-2025-08-01,category,pom hl,6,any,19,0.00%
-2025-08-01,category,pom hl,7,any,19,0.00%
-2025-08-01,category,pom hl,8,any,19,0.00%
-2025-08-01,category,pom hl,9,any,19,0.00%
-2025-08-01,category,pom hl,10,any,19,0.00%
-2025-08-01,category,pom hl,11,any,19,0.00%
-2025-08-01,category,pom hl,12,any,19,0.00%
-2025-08-01,category,pom hl,0,same,19,100.00%
-2025-08-01,category,pom hl,1,same,19,0.00%
-2025-08-01,category,pom hl,2,same,19,0.00%
-2025-08-01,category,pom hl,3,same,19,0.00%
-2025-08-01,category,pom hl,4,same,19,0.00%
-2025-08-01,category,pom hl,5,same,19,0.00%
-2025-08-01,category,pom hl,6,same,19,0.00%
-2025-08-01,category,pom hl,7,same,19,0.00%
-2025-08-01,category,pom hl,8,same,19,0.00%
-2025-08-01,category,pom hl,9,same,19,0.00%
-2025-08-01,category,pom hl,10,same,19,0.00%
-2025-08-01,category,pom hl,11,same,19,0.00%
-2025-08-01,category,pom hl,12,same,19,0.00%
 2024-11-01,category,pom sh,0,any,1,100.00%
 2024-11-01,category,pom sh,1,any,1,0.00%
 2024-11-01,category,pom sh,2,any,1,0.00%
@@ -1013,32 +961,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,category,pom sh,10,same,4,0.00%
 2025-07-01,category,pom sh,11,same,4,0.00%
 2025-07-01,category,pom sh,12,same,4,0.00%
-2025-08-01,category,pom sh,0,any,2,100.00%
-2025-08-01,category,pom sh,1,any,2,0.00%
-2025-08-01,category,pom sh,2,any,2,0.00%
-2025-08-01,category,pom sh,3,any,2,0.00%
-2025-08-01,category,pom sh,4,any,2,0.00%
-2025-08-01,category,pom sh,5,any,2,0.00%
-2025-08-01,category,pom sh,6,any,2,0.00%
-2025-08-01,category,pom sh,7,any,2,0.00%
-2025-08-01,category,pom sh,8,any,2,0.00%
-2025-08-01,category,pom sh,9,any,2,0.00%
-2025-08-01,category,pom sh,10,any,2,0.00%
-2025-08-01,category,pom sh,11,any,2,0.00%
-2025-08-01,category,pom sh,12,any,2,0.00%
-2025-08-01,category,pom sh,0,same,2,100.00%
-2025-08-01,category,pom sh,1,same,2,0.00%
-2025-08-01,category,pom sh,2,same,2,0.00%
-2025-08-01,category,pom sh,3,same,2,0.00%
-2025-08-01,category,pom sh,4,same,2,0.00%
-2025-08-01,category,pom sh,5,same,2,0.00%
-2025-08-01,category,pom sh,6,same,2,0.00%
-2025-08-01,category,pom sh,7,same,2,0.00%
-2025-08-01,category,pom sh,8,same,2,0.00%
-2025-08-01,category,pom sh,9,same,2,0.00%
-2025-08-01,category,pom sh,10,same,2,0.00%
-2025-08-01,category,pom sh,11,same,2,0.00%
-2025-08-01,category,pom sh,12,same,2,0.00%
 2024-10-01,overall,ALL,0,any,3,100.00%
 2024-10-01,overall,ALL,1,any,3,66.67%
 2024-10-01,overall,ALL,2,any,3,66.67%
@@ -1066,24 +988,24 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2024-11-01,overall,ALL,11,any,5,0.00%
 2024-11-01,overall,ALL,12,any,5,0.00%
 2024-12-01,overall,ALL,0,any,19,100.00%
-2024-12-01,overall,ALL,1,any,19,63.16%
+2024-12-01,overall,ALL,1,any,19,68.42%
 2024-12-01,overall,ALL,2,any,19,68.42%
-2024-12-01,overall,ALL,3,any,19,63.16%
-2024-12-01,overall,ALL,4,any,19,68.42%
+2024-12-01,overall,ALL,3,any,19,68.42%
+2024-12-01,overall,ALL,4,any,19,73.68%
 2024-12-01,overall,ALL,5,any,19,57.89%
-2024-12-01,overall,ALL,6,any,19,36.84%
-2024-12-01,overall,ALL,7,any,19,31.58%
-2024-12-01,overall,ALL,8,any,19,15.79%
+2024-12-01,overall,ALL,6,any,19,42.11%
+2024-12-01,overall,ALL,7,any,19,42.11%
+2024-12-01,overall,ALL,8,any,19,21.05%
 2024-12-01,overall,ALL,9,any,19,0.00%
 2024-12-01,overall,ALL,10,any,19,0.00%
 2024-12-01,overall,ALL,11,any,19,0.00%
 2024-12-01,overall,ALL,12,any,19,0.00%
 2025-01-01,overall,ALL,0,any,21,100.00%
-2025-01-01,overall,ALL,1,any,21,28.57%
-2025-01-01,overall,ALL,2,any,21,28.57%
-2025-01-01,overall,ALL,3,any,21,14.29%
-2025-01-01,overall,ALL,4,any,21,9.52%
-2025-01-01,overall,ALL,5,any,21,9.52%
+2025-01-01,overall,ALL,1,any,21,33.33%
+2025-01-01,overall,ALL,2,any,21,33.33%
+2025-01-01,overall,ALL,3,any,21,19.05%
+2025-01-01,overall,ALL,4,any,21,14.29%
+2025-01-01,overall,ALL,5,any,21,14.29%
 2025-01-01,overall,ALL,6,any,21,4.76%
 2025-01-01,overall,ALL,7,any,21,4.76%
 2025-01-01,overall,ALL,8,any,21,0.00%
@@ -1092,11 +1014,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-01-01,overall,ALL,11,any,21,0.00%
 2025-01-01,overall,ALL,12,any,21,0.00%
 2025-02-01,overall,ALL,0,any,15,100.00%
-2025-02-01,overall,ALL,1,any,15,60.00%
-2025-02-01,overall,ALL,2,any,15,53.33%
-2025-02-01,overall,ALL,3,any,15,33.33%
+2025-02-01,overall,ALL,1,any,15,73.33%
+2025-02-01,overall,ALL,2,any,15,60.00%
+2025-02-01,overall,ALL,3,any,15,40.00%
 2025-02-01,overall,ALL,4,any,15,33.33%
-2025-02-01,overall,ALL,5,any,15,33.33%
+2025-02-01,overall,ALL,5,any,15,40.00%
 2025-02-01,overall,ALL,6,any,15,6.67%
 2025-02-01,overall,ALL,7,any,15,0.00%
 2025-02-01,overall,ALL,8,any,15,0.00%
@@ -1105,12 +1027,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-02-01,overall,ALL,11,any,15,0.00%
 2025-02-01,overall,ALL,12,any,15,0.00%
 2025-03-01,overall,ALL,0,any,62,100.00%
-2025-03-01,overall,ALL,1,any,62,50.00%
-2025-03-01,overall,ALL,2,any,62,41.94%
-2025-03-01,overall,ALL,3,any,62,40.32%
-2025-03-01,overall,ALL,4,any,62,35.48%
-2025-03-01,overall,ALL,5,any,62,8.06%
-2025-03-01,overall,ALL,6,any,62,0.00%
+2025-03-01,overall,ALL,1,any,62,61.29%
+2025-03-01,overall,ALL,2,any,62,48.39%
+2025-03-01,overall,ALL,3,any,62,46.77%
+2025-03-01,overall,ALL,4,any,62,41.94%
+2025-03-01,overall,ALL,5,any,62,14.52%
+2025-03-01,overall,ALL,6,any,62,3.23%
 2025-03-01,overall,ALL,7,any,62,0.00%
 2025-03-01,overall,ALL,8,any,62,0.00%
 2025-03-01,overall,ALL,9,any,62,0.00%
@@ -1118,12 +1040,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,overall,ALL,11,any,62,0.00%
 2025-03-01,overall,ALL,12,any,62,0.00%
 2025-04-01,overall,ALL,0,any,79,100.00%
-2025-04-01,overall,ALL,1,any,79,39.24%
-2025-04-01,overall,ALL,2,any,79,43.04%
-2025-04-01,overall,ALL,3,any,79,45.57%
-2025-04-01,overall,ALL,4,any,79,11.39%
-2025-04-01,overall,ALL,5,any,79,0.00%
-2025-04-01,overall,ALL,6,any,79,0.00%
+2025-04-01,overall,ALL,1,any,79,67.09%
+2025-04-01,overall,ALL,2,any,79,58.23%
+2025-04-01,overall,ALL,3,any,79,53.16%
+2025-04-01,overall,ALL,4,any,79,26.58%
+2025-04-01,overall,ALL,5,any,79,12.66%
+2025-04-01,overall,ALL,6,any,79,1.27%
 2025-04-01,overall,ALL,7,any,79,0.00%
 2025-04-01,overall,ALL,8,any,79,0.00%
 2025-04-01,overall,ALL,9,any,79,0.00%
@@ -1131,11 +1053,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,overall,ALL,11,any,79,0.00%
 2025-04-01,overall,ALL,12,any,79,0.00%
 2025-05-01,overall,ALL,0,any,81,100.00%
-2025-05-01,overall,ALL,1,any,81,49.38%
-2025-05-01,overall,ALL,2,any,81,45.68%
-2025-05-01,overall,ALL,3,any,81,11.11%
-2025-05-01,overall,ALL,4,any,81,0.00%
-2025-05-01,overall,ALL,5,any,81,0.00%
+2025-05-01,overall,ALL,1,any,81,74.07%
+2025-05-01,overall,ALL,2,any,81,62.96%
+2025-05-01,overall,ALL,3,any,81,20.99%
+2025-05-01,overall,ALL,4,any,81,6.17%
+2025-05-01,overall,ALL,5,any,81,3.70%
 2025-05-01,overall,ALL,6,any,81,0.00%
 2025-05-01,overall,ALL,7,any,81,0.00%
 2025-05-01,overall,ALL,8,any,81,0.00%
@@ -1144,10 +1066,10 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,overall,ALL,11,any,81,0.00%
 2025-05-01,overall,ALL,12,any,81,0.00%
 2025-06-01,overall,ALL,0,any,79,100.00%
-2025-06-01,overall,ALL,1,any,79,45.57%
-2025-06-01,overall,ALL,2,any,79,13.92%
-2025-06-01,overall,ALL,3,any,79,0.00%
-2025-06-01,overall,ALL,4,any,79,0.00%
+2025-06-01,overall,ALL,1,any,79,70.89%
+2025-06-01,overall,ALL,2,any,79,31.65%
+2025-06-01,overall,ALL,3,any,79,6.33%
+2025-06-01,overall,ALL,4,any,79,1.27%
 2025-06-01,overall,ALL,5,any,79,0.00%
 2025-06-01,overall,ALL,6,any,79,0.00%
 2025-06-01,overall,ALL,7,any,79,0.00%
@@ -1157,9 +1079,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,overall,ALL,11,any,79,0.00%
 2025-06-01,overall,ALL,12,any,79,0.00%
 2025-07-01,overall,ALL,0,any,81,100.00%
-2025-07-01,overall,ALL,1,any,81,13.58%
-2025-07-01,overall,ALL,2,any,81,0.00%
-2025-07-01,overall,ALL,3,any,81,0.00%
+2025-07-01,overall,ALL,1,any,81,58.02%
+2025-07-01,overall,ALL,2,any,81,35.80%
+2025-07-01,overall,ALL,3,any,81,1.23%
 2025-07-01,overall,ALL,4,any,81,0.00%
 2025-07-01,overall,ALL,5,any,81,0.00%
 2025-07-01,overall,ALL,6,any,81,0.00%
@@ -1169,19 +1091,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,overall,ALL,10,any,81,0.00%
 2025-07-01,overall,ALL,11,any,81,0.00%
 2025-07-01,overall,ALL,12,any,81,0.00%
-2025-08-01,overall,ALL,0,any,22,100.00%
-2025-08-01,overall,ALL,1,any,22,0.00%
-2025-08-01,overall,ALL,2,any,22,0.00%
-2025-08-01,overall,ALL,3,any,22,0.00%
-2025-08-01,overall,ALL,4,any,22,0.00%
-2025-08-01,overall,ALL,5,any,22,0.00%
-2025-08-01,overall,ALL,6,any,22,0.00%
-2025-08-01,overall,ALL,7,any,22,0.00%
-2025-08-01,overall,ALL,8,any,22,0.00%
-2025-08-01,overall,ALL,9,any,22,0.00%
-2025-08-01,overall,ALL,10,any,22,0.00%
-2025-08-01,overall,ALL,11,any,22,0.00%
-2025-08-01,overall,ALL,12,any,22,0.00%
 2025-01-01,sku,advanced routine,0,any,1,100.00%
 2025-01-01,sku,advanced routine,1,any,1,0.00%
 2025-01-01,sku,advanced routine,2,any,1,0.00%
@@ -1211,8 +1120,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,advanced routine,0,any,3,100.00%
 2025-03-01,sku,advanced routine,1,any,3,66.67%
 2025-03-01,sku,advanced routine,2,any,3,66.67%
-2025-03-01,sku,advanced routine,3,any,3,33.33%
-2025-03-01,sku,advanced routine,4,any,3,0.00%
+2025-03-01,sku,advanced routine,3,any,3,66.67%
+2025-03-01,sku,advanced routine,4,any,3,33.33%
 2025-03-01,sku,advanced routine,5,any,3,0.00%
 2025-03-01,sku,advanced routine,6,any,3,0.00%
 2025-03-01,sku,advanced routine,7,any,3,0.00%
@@ -1223,7 +1132,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,advanced routine,12,any,3,0.00%
 2025-03-01,sku,advanced routine,0,same,3,100.00%
 2025-03-01,sku,advanced routine,1,same,3,33.33%
-2025-03-01,sku,advanced routine,2,same,3,0.00%
+2025-03-01,sku,advanced routine,2,same,3,33.33%
 2025-03-01,sku,advanced routine,3,same,3,0.00%
 2025-03-01,sku,advanced routine,4,same,3,0.00%
 2025-03-01,sku,advanced routine,5,same,3,0.00%
@@ -1235,7 +1144,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,advanced routine,11,same,3,0.00%
 2025-03-01,sku,advanced routine,12,same,3,0.00%
 2025-04-01,sku,advanced routine,0,any,1,100.00%
-2025-04-01,sku,advanced routine,1,any,1,0.00%
+2025-04-01,sku,advanced routine,1,any,1,100.00%
 2025-04-01,sku,advanced routine,2,any,1,0.00%
 2025-04-01,sku,advanced routine,3,any,1,0.00%
 2025-04-01,sku,advanced routine,4,any,1,0.00%
@@ -1248,7 +1157,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,advanced routine,11,any,1,0.00%
 2025-04-01,sku,advanced routine,12,any,1,0.00%
 2025-04-01,sku,advanced routine,0,same,1,100.00%
-2025-04-01,sku,advanced routine,1,same,1,0.00%
+2025-04-01,sku,advanced routine,1,same,1,100.00%
 2025-04-01,sku,advanced routine,2,same,1,0.00%
 2025-04-01,sku,advanced routine,3,same,1,0.00%
 2025-04-01,sku,advanced routine,4,same,1,0.00%
@@ -1261,8 +1170,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,advanced routine,11,same,1,0.00%
 2025-04-01,sku,advanced routine,12,same,1,0.00%
 2025-06-01,sku,advanced routine,0,any,3,100.00%
-2025-06-01,sku,advanced routine,1,any,3,66.67%
-2025-06-01,sku,advanced routine,2,any,3,33.33%
+2025-06-01,sku,advanced routine,1,any,3,100.00%
+2025-06-01,sku,advanced routine,2,any,3,66.67%
 2025-06-01,sku,advanced routine,3,any,3,0.00%
 2025-06-01,sku,advanced routine,4,any,3,0.00%
 2025-06-01,sku,advanced routine,5,any,3,0.00%
@@ -1274,8 +1183,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,advanced routine,11,any,3,0.00%
 2025-06-01,sku,advanced routine,12,any,3,0.00%
 2025-06-01,sku,advanced routine,0,same,3,100.00%
-2025-06-01,sku,advanced routine,1,same,3,0.00%
-2025-06-01,sku,advanced routine,2,same,3,0.00%
+2025-06-01,sku,advanced routine,1,same,3,33.33%
+2025-06-01,sku,advanced routine,2,same,3,33.33%
 2025-06-01,sku,advanced routine,3,same,3,0.00%
 2025-06-01,sku,advanced routine,4,same,3,0.00%
 2025-06-01,sku,advanced routine,5,same,3,0.00%
@@ -1316,8 +1225,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,beard growth serum,1,any,2,50.00%
 2025-04-01,sku,beard growth serum,2,any,2,50.00%
 2025-04-01,sku,beard growth serum,3,any,2,100.00%
-2025-04-01,sku,beard growth serum,4,any,2,0.00%
-2025-04-01,sku,beard growth serum,5,any,2,0.00%
+2025-04-01,sku,beard growth serum,4,any,2,50.00%
+2025-04-01,sku,beard growth serum,5,any,2,50.00%
 2025-04-01,sku,beard growth serum,6,any,2,0.00%
 2025-04-01,sku,beard growth serum,7,any,2,0.00%
 2025-04-01,sku,beard growth serum,8,any,2,0.00%
@@ -1573,8 +1482,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,delay spray,11,same,7,0.00%
 2025-06-01,sku,delay spray,12,same,7,0.00%
 2025-07-01,sku,delay spray,0,any,4,100.00%
-2025-07-01,sku,delay spray,1,any,4,0.00%
-2025-07-01,sku,delay spray,2,any,4,0.00%
+2025-07-01,sku,delay spray,1,any,4,25.00%
+2025-07-01,sku,delay spray,2,any,4,25.00%
 2025-07-01,sku,delay spray,3,any,4,0.00%
 2025-07-01,sku,delay spray,4,any,4,0.00%
 2025-07-01,sku,delay spray,5,any,4,0.00%
@@ -1586,8 +1495,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,delay spray,11,any,4,0.00%
 2025-07-01,sku,delay spray,12,any,4,0.00%
 2025-07-01,sku,delay spray,0,same,4,100.00%
-2025-07-01,sku,delay spray,1,same,4,0.00%
-2025-07-01,sku,delay spray,2,same,4,0.00%
+2025-07-01,sku,delay spray,1,same,4,25.00%
+2025-07-01,sku,delay spray,2,same,4,25.00%
 2025-07-01,sku,delay spray,3,same,4,0.00%
 2025-07-01,sku,delay spray,4,same,4,0.00%
 2025-07-01,sku,delay spray,5,same,4,0.00%
@@ -1677,11 +1586,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-02-01,sku,essential boost,11,same,2,0.00%
 2025-02-01,sku,essential boost,12,same,2,0.00%
 2025-03-01,sku,essential boost,0,any,9,100.00%
-2025-03-01,sku,essential boost,1,any,9,33.33%
-2025-03-01,sku,essential boost,2,any,9,33.33%
-2025-03-01,sku,essential boost,3,any,9,33.33%
-2025-03-01,sku,essential boost,4,any,9,22.22%
-2025-03-01,sku,essential boost,5,any,9,0.00%
+2025-03-01,sku,essential boost,1,any,9,55.56%
+2025-03-01,sku,essential boost,2,any,9,44.44%
+2025-03-01,sku,essential boost,3,any,9,44.44%
+2025-03-01,sku,essential boost,4,any,9,33.33%
+2025-03-01,sku,essential boost,5,any,9,11.11%
 2025-03-01,sku,essential boost,6,any,9,0.00%
 2025-03-01,sku,essential boost,7,any,9,0.00%
 2025-03-01,sku,essential boost,8,any,9,0.00%
@@ -1690,11 +1599,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,essential boost,11,any,9,0.00%
 2025-03-01,sku,essential boost,12,any,9,0.00%
 2025-03-01,sku,essential boost,0,same,9,100.00%
-2025-03-01,sku,essential boost,1,same,9,33.33%
-2025-03-01,sku,essential boost,2,same,9,33.33%
-2025-03-01,sku,essential boost,3,same,9,33.33%
-2025-03-01,sku,essential boost,4,same,9,22.22%
-2025-03-01,sku,essential boost,5,same,9,0.00%
+2025-03-01,sku,essential boost,1,same,9,55.56%
+2025-03-01,sku,essential boost,2,same,9,44.44%
+2025-03-01,sku,essential boost,3,same,9,44.44%
+2025-03-01,sku,essential boost,4,same,9,33.33%
+2025-03-01,sku,essential boost,5,same,9,11.11%
 2025-03-01,sku,essential boost,6,same,9,0.00%
 2025-03-01,sku,essential boost,7,same,9,0.00%
 2025-03-01,sku,essential boost,8,same,9,0.00%
@@ -1703,11 +1612,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,essential boost,11,same,9,0.00%
 2025-03-01,sku,essential boost,12,same,9,0.00%
 2025-04-01,sku,essential boost,0,any,16,100.00%
-2025-04-01,sku,essential boost,1,any,16,37.50%
-2025-04-01,sku,essential boost,2,any,16,43.75%
-2025-04-01,sku,essential boost,3,any,16,50.00%
-2025-04-01,sku,essential boost,4,any,16,12.50%
-2025-04-01,sku,essential boost,5,any,16,0.00%
+2025-04-01,sku,essential boost,1,any,16,62.50%
+2025-04-01,sku,essential boost,2,any,16,56.25%
+2025-04-01,sku,essential boost,3,any,16,56.25%
+2025-04-01,sku,essential boost,4,any,16,31.25%
+2025-04-01,sku,essential boost,5,any,16,12.50%
 2025-04-01,sku,essential boost,6,any,16,0.00%
 2025-04-01,sku,essential boost,7,any,16,0.00%
 2025-04-01,sku,essential boost,8,any,16,0.00%
@@ -1716,11 +1625,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,essential boost,11,any,16,0.00%
 2025-04-01,sku,essential boost,12,any,16,0.00%
 2025-04-01,sku,essential boost,0,same,16,100.00%
-2025-04-01,sku,essential boost,1,same,16,37.50%
-2025-04-01,sku,essential boost,2,same,16,37.50%
-2025-04-01,sku,essential boost,3,same,16,50.00%
-2025-04-01,sku,essential boost,4,same,16,12.50%
-2025-04-01,sku,essential boost,5,same,16,0.00%
+2025-04-01,sku,essential boost,1,same,16,62.50%
+2025-04-01,sku,essential boost,2,same,16,50.00%
+2025-04-01,sku,essential boost,3,same,16,56.25%
+2025-04-01,sku,essential boost,4,same,16,31.25%
+2025-04-01,sku,essential boost,5,same,16,12.50%
 2025-04-01,sku,essential boost,6,same,16,0.00%
 2025-04-01,sku,essential boost,7,same,16,0.00%
 2025-04-01,sku,essential boost,8,same,16,0.00%
@@ -1729,9 +1638,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,essential boost,11,same,16,0.00%
 2025-04-01,sku,essential boost,12,same,16,0.00%
 2025-05-01,sku,essential boost,0,any,20,100.00%
-2025-05-01,sku,essential boost,1,any,20,40.00%
-2025-05-01,sku,essential boost,2,any,20,40.00%
-2025-05-01,sku,essential boost,3,any,20,10.00%
+2025-05-01,sku,essential boost,1,any,20,60.00%
+2025-05-01,sku,essential boost,2,any,20,55.00%
+2025-05-01,sku,essential boost,3,any,20,15.00%
 2025-05-01,sku,essential boost,4,any,20,0.00%
 2025-05-01,sku,essential boost,5,any,20,0.00%
 2025-05-01,sku,essential boost,6,any,20,0.00%
@@ -1742,9 +1651,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,essential boost,11,any,20,0.00%
 2025-05-01,sku,essential boost,12,any,20,0.00%
 2025-05-01,sku,essential boost,0,same,20,100.00%
-2025-05-01,sku,essential boost,1,same,20,35.00%
-2025-05-01,sku,essential boost,2,same,20,35.00%
-2025-05-01,sku,essential boost,3,same,20,10.00%
+2025-05-01,sku,essential boost,1,same,20,55.00%
+2025-05-01,sku,essential boost,2,same,20,50.00%
+2025-05-01,sku,essential boost,3,same,20,15.00%
 2025-05-01,sku,essential boost,4,same,20,0.00%
 2025-05-01,sku,essential boost,5,same,20,0.00%
 2025-05-01,sku,essential boost,6,same,20,0.00%
@@ -1755,9 +1664,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,essential boost,11,same,20,0.00%
 2025-05-01,sku,essential boost,12,same,20,0.00%
 2025-06-01,sku,essential boost,0,any,17,100.00%
-2025-06-01,sku,essential boost,1,any,17,58.82%
-2025-06-01,sku,essential boost,2,any,17,11.76%
-2025-06-01,sku,essential boost,3,any,17,0.00%
+2025-06-01,sku,essential boost,1,any,17,82.35%
+2025-06-01,sku,essential boost,2,any,17,41.18%
+2025-06-01,sku,essential boost,3,any,17,5.88%
 2025-06-01,sku,essential boost,4,any,17,0.00%
 2025-06-01,sku,essential boost,5,any,17,0.00%
 2025-06-01,sku,essential boost,6,any,17,0.00%
@@ -1768,9 +1677,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,essential boost,11,any,17,0.00%
 2025-06-01,sku,essential boost,12,any,17,0.00%
 2025-06-01,sku,essential boost,0,same,17,100.00%
-2025-06-01,sku,essential boost,1,same,17,47.06%
-2025-06-01,sku,essential boost,2,same,17,11.76%
-2025-06-01,sku,essential boost,3,same,17,0.00%
+2025-06-01,sku,essential boost,1,same,17,76.47%
+2025-06-01,sku,essential boost,2,same,17,41.18%
+2025-06-01,sku,essential boost,3,same,17,5.88%
 2025-06-01,sku,essential boost,4,same,17,0.00%
 2025-06-01,sku,essential boost,5,same,17,0.00%
 2025-06-01,sku,essential boost,6,same,17,0.00%
@@ -1781,8 +1690,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,essential boost,11,same,17,0.00%
 2025-06-01,sku,essential boost,12,same,17,0.00%
 2025-07-01,sku,essential boost,0,any,15,100.00%
-2025-07-01,sku,essential boost,1,any,15,26.67%
-2025-07-01,sku,essential boost,2,any,15,0.00%
+2025-07-01,sku,essential boost,1,any,15,66.67%
+2025-07-01,sku,essential boost,2,any,15,26.67%
 2025-07-01,sku,essential boost,3,any,15,0.00%
 2025-07-01,sku,essential boost,4,any,15,0.00%
 2025-07-01,sku,essential boost,5,any,15,0.00%
@@ -1794,8 +1703,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,essential boost,11,any,15,0.00%
 2025-07-01,sku,essential boost,12,any,15,0.00%
 2025-07-01,sku,essential boost,0,same,15,100.00%
-2025-07-01,sku,essential boost,1,same,15,20.00%
-2025-07-01,sku,essential boost,2,same,15,0.00%
+2025-07-01,sku,essential boost,1,same,15,60.00%
+2025-07-01,sku,essential boost,2,same,15,26.67%
 2025-07-01,sku,essential boost,3,same,15,0.00%
 2025-07-01,sku,essential boost,4,same,15,0.00%
 2025-07-01,sku,essential boost,5,same,15,0.00%
@@ -1806,32 +1715,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,essential boost,10,same,15,0.00%
 2025-07-01,sku,essential boost,11,same,15,0.00%
 2025-07-01,sku,essential boost,12,same,15,0.00%
-2025-08-01,sku,essential boost,0,any,6,100.00%
-2025-08-01,sku,essential boost,1,any,6,0.00%
-2025-08-01,sku,essential boost,2,any,6,0.00%
-2025-08-01,sku,essential boost,3,any,6,0.00%
-2025-08-01,sku,essential boost,4,any,6,0.00%
-2025-08-01,sku,essential boost,5,any,6,0.00%
-2025-08-01,sku,essential boost,6,any,6,0.00%
-2025-08-01,sku,essential boost,7,any,6,0.00%
-2025-08-01,sku,essential boost,8,any,6,0.00%
-2025-08-01,sku,essential boost,9,any,6,0.00%
-2025-08-01,sku,essential boost,10,any,6,0.00%
-2025-08-01,sku,essential boost,11,any,6,0.00%
-2025-08-01,sku,essential boost,12,any,6,0.00%
-2025-08-01,sku,essential boost,0,same,6,100.00%
-2025-08-01,sku,essential boost,1,same,6,0.00%
-2025-08-01,sku,essential boost,2,same,6,0.00%
-2025-08-01,sku,essential boost,3,same,6,0.00%
-2025-08-01,sku,essential boost,4,same,6,0.00%
-2025-08-01,sku,essential boost,5,same,6,0.00%
-2025-08-01,sku,essential boost,6,same,6,0.00%
-2025-08-01,sku,essential boost,7,same,6,0.00%
-2025-08-01,sku,essential boost,8,same,6,0.00%
-2025-08-01,sku,essential boost,9,same,6,0.00%
-2025-08-01,sku,essential boost,10,same,6,0.00%
-2025-08-01,sku,essential boost,11,same,6,0.00%
-2025-08-01,sku,essential boost,12,same,6,0.00%
 2025-01-01,sku,essential routine,0,any,2,100.00%
 2025-01-01,sku,essential routine,1,any,2,0.00%
 2025-01-01,sku,essential routine,2,any,2,50.00%
@@ -1885,8 +1768,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,essential routine,11,same,1,0.00%
 2025-06-01,sku,essential routine,12,same,1,0.00%
 2025-07-01,sku,essential routine,0,any,1,100.00%
-2025-07-01,sku,essential routine,1,any,1,0.00%
-2025-07-01,sku,essential routine,2,any,1,0.00%
+2025-07-01,sku,essential routine,1,any,1,100.00%
+2025-07-01,sku,essential routine,2,any,1,100.00%
 2025-07-01,sku,essential routine,3,any,1,0.00%
 2025-07-01,sku,essential routine,4,any,1,0.00%
 2025-07-01,sku,essential routine,5,any,1,0.00%
@@ -1898,8 +1781,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,essential routine,11,any,1,0.00%
 2025-07-01,sku,essential routine,12,any,1,0.00%
 2025-07-01,sku,essential routine,0,same,1,100.00%
-2025-07-01,sku,essential routine,1,same,1,0.00%
-2025-07-01,sku,essential routine,2,same,1,0.00%
+2025-07-01,sku,essential routine,1,same,1,100.00%
+2025-07-01,sku,essential routine,2,same,1,100.00%
 2025-07-01,sku,essential routine,3,same,1,0.00%
 2025-07-01,sku,essential routine,4,same,1,0.00%
 2025-07-01,sku,essential routine,5,same,1,0.00%
@@ -1937,8 +1820,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,eye cream,11,same,1,0.00%
 2025-03-01,sku,eye cream,12,same,1,0.00%
 2025-07-01,sku,eye cream,0,any,1,100.00%
-2025-07-01,sku,eye cream,1,any,1,0.00%
-2025-07-01,sku,eye cream,2,any,1,0.00%
+2025-07-01,sku,eye cream,1,any,1,100.00%
+2025-07-01,sku,eye cream,2,any,1,100.00%
 2025-07-01,sku,eye cream,3,any,1,0.00%
 2025-07-01,sku,eye cream,4,any,1,0.00%
 2025-07-01,sku,eye cream,5,any,1,0.00%
@@ -1950,8 +1833,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,eye cream,11,any,1,0.00%
 2025-07-01,sku,eye cream,12,any,1,0.00%
 2025-07-01,sku,eye cream,0,same,1,100.00%
-2025-07-01,sku,eye cream,1,same,1,0.00%
-2025-07-01,sku,eye cream,2,same,1,0.00%
+2025-07-01,sku,eye cream,1,same,1,100.00%
+2025-07-01,sku,eye cream,2,same,1,100.00%
 2025-07-01,sku,eye cream,3,same,1,0.00%
 2025-07-01,sku,eye cream,4,same,1,0.00%
 2025-07-01,sku,eye cream,5,same,1,0.00%
@@ -2327,11 +2210,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,oral minoxidil,11,same,8,0.00%
 2025-03-01,sku,oral minoxidil,12,same,8,0.00%
 2025-04-01,sku,oral minoxidil,0,any,17,100.00%
-2025-04-01,sku,oral minoxidil,1,any,17,35.29%
-2025-04-01,sku,oral minoxidil,2,any,17,41.18%
-2025-04-01,sku,oral minoxidil,3,any,17,47.06%
-2025-04-01,sku,oral minoxidil,4,any,17,17.65%
-2025-04-01,sku,oral minoxidil,5,any,17,0.00%
+2025-04-01,sku,oral minoxidil,1,any,17,76.47%
+2025-04-01,sku,oral minoxidil,2,any,17,58.82%
+2025-04-01,sku,oral minoxidil,3,any,17,64.71%
+2025-04-01,sku,oral minoxidil,4,any,17,35.29%
+2025-04-01,sku,oral minoxidil,5,any,17,17.65%
 2025-04-01,sku,oral minoxidil,6,any,17,0.00%
 2025-04-01,sku,oral minoxidil,7,any,17,0.00%
 2025-04-01,sku,oral minoxidil,8,any,17,0.00%
@@ -2340,11 +2223,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,oral minoxidil,11,any,17,0.00%
 2025-04-01,sku,oral minoxidil,12,any,17,0.00%
 2025-04-01,sku,oral minoxidil,0,same,17,100.00%
-2025-04-01,sku,oral minoxidil,1,same,17,17.65%
-2025-04-01,sku,oral minoxidil,2,same,17,17.65%
+2025-04-01,sku,oral minoxidil,1,same,17,52.94%
+2025-04-01,sku,oral minoxidil,2,same,17,35.29%
 2025-04-01,sku,oral minoxidil,3,same,17,29.41%
-2025-04-01,sku,oral minoxidil,4,same,17,17.65%
-2025-04-01,sku,oral minoxidil,5,same,17,0.00%
+2025-04-01,sku,oral minoxidil,4,same,17,29.41%
+2025-04-01,sku,oral minoxidil,5,same,17,17.65%
 2025-04-01,sku,oral minoxidil,6,same,17,0.00%
 2025-04-01,sku,oral minoxidil,7,same,17,0.00%
 2025-04-01,sku,oral minoxidil,8,same,17,0.00%
@@ -2353,9 +2236,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,oral minoxidil,11,same,17,0.00%
 2025-04-01,sku,oral minoxidil,12,same,17,0.00%
 2025-05-01,sku,oral minoxidil,0,any,12,100.00%
-2025-05-01,sku,oral minoxidil,1,any,12,25.00%
-2025-05-01,sku,oral minoxidil,2,any,12,41.67%
-2025-05-01,sku,oral minoxidil,3,any,12,0.00%
+2025-05-01,sku,oral minoxidil,1,any,12,83.33%
+2025-05-01,sku,oral minoxidil,2,any,12,66.67%
+2025-05-01,sku,oral minoxidil,3,any,12,16.67%
 2025-05-01,sku,oral minoxidil,4,any,12,0.00%
 2025-05-01,sku,oral minoxidil,5,any,12,0.00%
 2025-05-01,sku,oral minoxidil,6,any,12,0.00%
@@ -2366,9 +2249,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,oral minoxidil,11,any,12,0.00%
 2025-05-01,sku,oral minoxidil,12,any,12,0.00%
 2025-05-01,sku,oral minoxidil,0,same,12,100.00%
-2025-05-01,sku,oral minoxidil,1,same,12,8.33%
-2025-05-01,sku,oral minoxidil,2,same,12,25.00%
-2025-05-01,sku,oral minoxidil,3,same,12,0.00%
+2025-05-01,sku,oral minoxidil,1,same,12,66.67%
+2025-05-01,sku,oral minoxidil,2,same,12,50.00%
+2025-05-01,sku,oral minoxidil,3,same,12,16.67%
 2025-05-01,sku,oral minoxidil,4,same,12,0.00%
 2025-05-01,sku,oral minoxidil,5,same,12,0.00%
 2025-05-01,sku,oral minoxidil,6,same,12,0.00%
@@ -2379,7 +2262,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,oral minoxidil,11,same,12,0.00%
 2025-05-01,sku,oral minoxidil,12,same,12,0.00%
 2025-06-01,sku,oral minoxidil,0,any,11,100.00%
-2025-06-01,sku,oral minoxidil,1,any,11,72.73%
+2025-06-01,sku,oral minoxidil,1,any,11,81.82%
 2025-06-01,sku,oral minoxidil,2,any,11,18.18%
 2025-06-01,sku,oral minoxidil,3,any,11,0.00%
 2025-06-01,sku,oral minoxidil,4,any,11,0.00%
@@ -2392,7 +2275,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,oral minoxidil,11,any,11,0.00%
 2025-06-01,sku,oral minoxidil,12,any,11,0.00%
 2025-06-01,sku,oral minoxidil,0,same,11,100.00%
-2025-06-01,sku,oral minoxidil,1,same,11,72.73%
+2025-06-01,sku,oral minoxidil,1,same,11,81.82%
 2025-06-01,sku,oral minoxidil,2,same,11,18.18%
 2025-06-01,sku,oral minoxidil,3,same,11,0.00%
 2025-06-01,sku,oral minoxidil,4,same,11,0.00%
@@ -2405,8 +2288,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,oral minoxidil,11,same,11,0.00%
 2025-06-01,sku,oral minoxidil,12,same,11,0.00%
 2025-07-01,sku,oral minoxidil,0,any,13,100.00%
-2025-07-01,sku,oral minoxidil,1,any,13,0.00%
-2025-07-01,sku,oral minoxidil,2,any,13,0.00%
+2025-07-01,sku,oral minoxidil,1,any,13,53.85%
+2025-07-01,sku,oral minoxidil,2,any,13,38.46%
 2025-07-01,sku,oral minoxidil,3,any,13,0.00%
 2025-07-01,sku,oral minoxidil,4,any,13,0.00%
 2025-07-01,sku,oral minoxidil,5,any,13,0.00%
@@ -2418,8 +2301,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,oral minoxidil,11,any,13,0.00%
 2025-07-01,sku,oral minoxidil,12,any,13,0.00%
 2025-07-01,sku,oral minoxidil,0,same,13,100.00%
-2025-07-01,sku,oral minoxidil,1,same,13,0.00%
-2025-07-01,sku,oral minoxidil,2,same,13,0.00%
+2025-07-01,sku,oral minoxidil,1,same,13,53.85%
+2025-07-01,sku,oral minoxidil,2,same,13,38.46%
 2025-07-01,sku,oral minoxidil,3,same,13,0.00%
 2025-07-01,sku,oral minoxidil,4,same,13,0.00%
 2025-07-01,sku,oral minoxidil,5,same,13,0.00%
@@ -2430,32 +2313,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,oral minoxidil,10,same,13,0.00%
 2025-07-01,sku,oral minoxidil,11,same,13,0.00%
 2025-07-01,sku,oral minoxidil,12,same,13,0.00%
-2025-08-01,sku,oral minoxidil,0,any,2,100.00%
-2025-08-01,sku,oral minoxidil,1,any,2,0.00%
-2025-08-01,sku,oral minoxidil,2,any,2,0.00%
-2025-08-01,sku,oral minoxidil,3,any,2,0.00%
-2025-08-01,sku,oral minoxidil,4,any,2,0.00%
-2025-08-01,sku,oral minoxidil,5,any,2,0.00%
-2025-08-01,sku,oral minoxidil,6,any,2,0.00%
-2025-08-01,sku,oral minoxidil,7,any,2,0.00%
-2025-08-01,sku,oral minoxidil,8,any,2,0.00%
-2025-08-01,sku,oral minoxidil,9,any,2,0.00%
-2025-08-01,sku,oral minoxidil,10,any,2,0.00%
-2025-08-01,sku,oral minoxidil,11,any,2,0.00%
-2025-08-01,sku,oral minoxidil,12,any,2,0.00%
-2025-08-01,sku,oral minoxidil,0,same,2,100.00%
-2025-08-01,sku,oral minoxidil,1,same,2,0.00%
-2025-08-01,sku,oral minoxidil,2,same,2,0.00%
-2025-08-01,sku,oral minoxidil,3,same,2,0.00%
-2025-08-01,sku,oral minoxidil,4,same,2,0.00%
-2025-08-01,sku,oral minoxidil,5,same,2,0.00%
-2025-08-01,sku,oral minoxidil,6,same,2,0.00%
-2025-08-01,sku,oral minoxidil,7,same,2,0.00%
-2025-08-01,sku,oral minoxidil,8,same,2,0.00%
-2025-08-01,sku,oral minoxidil,9,same,2,0.00%
-2025-08-01,sku,oral minoxidil,10,same,2,0.00%
-2025-08-01,sku,oral minoxidil,11,same,2,0.00%
-2025-08-01,sku,oral minoxidil,12,same,2,0.00%
 2024-11-01,sku,oral mix,0,any,1,100.00%
 2024-11-01,sku,oral mix,1,any,1,100.00%
 2024-11-01,sku,oral mix,2,any,1,100.00%
@@ -2490,7 +2347,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2024-12-01,sku,oral mix,5,any,4,75.00%
 2024-12-01,sku,oral mix,6,any,4,75.00%
 2024-12-01,sku,oral mix,7,any,4,100.00%
-2024-12-01,sku,oral mix,8,any,4,25.00%
+2024-12-01,sku,oral mix,8,any,4,50.00%
 2024-12-01,sku,oral mix,9,any,4,0.00%
 2024-12-01,sku,oral mix,10,any,4,0.00%
 2024-12-01,sku,oral mix,11,any,4,0.00%
@@ -2503,17 +2360,17 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2024-12-01,sku,oral mix,5,same,4,75.00%
 2024-12-01,sku,oral mix,6,same,4,75.00%
 2024-12-01,sku,oral mix,7,same,4,75.00%
-2024-12-01,sku,oral mix,8,same,4,25.00%
+2024-12-01,sku,oral mix,8,same,4,50.00%
 2024-12-01,sku,oral mix,9,same,4,0.00%
 2024-12-01,sku,oral mix,10,same,4,0.00%
 2024-12-01,sku,oral mix,11,same,4,0.00%
 2024-12-01,sku,oral mix,12,same,4,0.00%
 2025-01-01,sku,oral mix,0,any,3,100.00%
-2025-01-01,sku,oral mix,1,any,3,66.67%
-2025-01-01,sku,oral mix,2,any,3,66.67%
-2025-01-01,sku,oral mix,3,any,3,0.00%
-2025-01-01,sku,oral mix,4,any,3,0.00%
-2025-01-01,sku,oral mix,5,any,3,0.00%
+2025-01-01,sku,oral mix,1,any,3,100.00%
+2025-01-01,sku,oral mix,2,any,3,100.00%
+2025-01-01,sku,oral mix,3,any,3,33.33%
+2025-01-01,sku,oral mix,4,any,3,33.33%
+2025-01-01,sku,oral mix,5,any,3,33.33%
 2025-01-01,sku,oral mix,6,any,3,0.00%
 2025-01-01,sku,oral mix,7,any,3,0.00%
 2025-01-01,sku,oral mix,8,any,3,0.00%
@@ -2522,11 +2379,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-01-01,sku,oral mix,11,any,3,0.00%
 2025-01-01,sku,oral mix,12,any,3,0.00%
 2025-01-01,sku,oral mix,0,same,3,100.00%
-2025-01-01,sku,oral mix,1,same,3,66.67%
-2025-01-01,sku,oral mix,2,same,3,66.67%
-2025-01-01,sku,oral mix,3,same,3,0.00%
-2025-01-01,sku,oral mix,4,same,3,0.00%
-2025-01-01,sku,oral mix,5,same,3,0.00%
+2025-01-01,sku,oral mix,1,same,3,100.00%
+2025-01-01,sku,oral mix,2,same,3,100.00%
+2025-01-01,sku,oral mix,3,same,3,33.33%
+2025-01-01,sku,oral mix,4,same,3,33.33%
+2025-01-01,sku,oral mix,5,same,3,33.33%
 2025-01-01,sku,oral mix,6,same,3,0.00%
 2025-01-01,sku,oral mix,7,same,3,0.00%
 2025-01-01,sku,oral mix,8,same,3,0.00%
@@ -2535,8 +2392,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-01-01,sku,oral mix,11,same,3,0.00%
 2025-01-01,sku,oral mix,12,same,3,0.00%
 2025-02-01,sku,oral mix,0,any,4,100.00%
-2025-02-01,sku,oral mix,1,any,4,75.00%
-2025-02-01,sku,oral mix,2,any,4,50.00%
+2025-02-01,sku,oral mix,1,any,4,100.00%
+2025-02-01,sku,oral mix,2,any,4,75.00%
 2025-02-01,sku,oral mix,3,any,4,50.00%
 2025-02-01,sku,oral mix,4,any,4,75.00%
 2025-02-01,sku,oral mix,5,any,4,75.00%
@@ -2548,8 +2405,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-02-01,sku,oral mix,11,any,4,0.00%
 2025-02-01,sku,oral mix,12,any,4,0.00%
 2025-02-01,sku,oral mix,0,same,4,100.00%
-2025-02-01,sku,oral mix,1,same,4,75.00%
-2025-02-01,sku,oral mix,2,same,4,50.00%
+2025-02-01,sku,oral mix,1,same,4,100.00%
+2025-02-01,sku,oral mix,2,same,4,75.00%
 2025-02-01,sku,oral mix,3,same,4,50.00%
 2025-02-01,sku,oral mix,4,same,4,50.00%
 2025-02-01,sku,oral mix,5,same,4,75.00%
@@ -2561,12 +2418,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-02-01,sku,oral mix,11,same,4,0.00%
 2025-02-01,sku,oral mix,12,same,4,0.00%
 2025-03-01,sku,oral mix,0,any,21,100.00%
-2025-03-01,sku,oral mix,1,any,21,71.43%
-2025-03-01,sku,oral mix,2,any,21,66.67%
-2025-03-01,sku,oral mix,3,any,21,61.90%
-2025-03-01,sku,oral mix,4,any,21,61.90%
-2025-03-01,sku,oral mix,5,any,21,14.29%
-2025-03-01,sku,oral mix,6,any,21,0.00%
+2025-03-01,sku,oral mix,1,any,21,85.71%
+2025-03-01,sku,oral mix,2,any,21,80.95%
+2025-03-01,sku,oral mix,3,any,21,66.67%
+2025-03-01,sku,oral mix,4,any,21,71.43%
+2025-03-01,sku,oral mix,5,any,21,19.05%
+2025-03-01,sku,oral mix,6,any,21,9.52%
 2025-03-01,sku,oral mix,7,any,21,0.00%
 2025-03-01,sku,oral mix,8,any,21,0.00%
 2025-03-01,sku,oral mix,9,any,21,0.00%
@@ -2574,12 +2431,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,oral mix,11,any,21,0.00%
 2025-03-01,sku,oral mix,12,any,21,0.00%
 2025-03-01,sku,oral mix,0,same,21,100.00%
-2025-03-01,sku,oral mix,1,same,21,71.43%
-2025-03-01,sku,oral mix,2,same,21,66.67%
-2025-03-01,sku,oral mix,3,same,21,57.14%
-2025-03-01,sku,oral mix,4,same,21,57.14%
+2025-03-01,sku,oral mix,1,same,21,85.71%
+2025-03-01,sku,oral mix,2,same,21,80.95%
+2025-03-01,sku,oral mix,3,same,21,61.90%
+2025-03-01,sku,oral mix,4,same,21,66.67%
 2025-03-01,sku,oral mix,5,same,21,14.29%
-2025-03-01,sku,oral mix,6,same,21,0.00%
+2025-03-01,sku,oral mix,6,same,21,4.76%
 2025-03-01,sku,oral mix,7,same,21,0.00%
 2025-03-01,sku,oral mix,8,same,21,0.00%
 2025-03-01,sku,oral mix,9,same,21,0.00%
@@ -2587,11 +2444,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,oral mix,11,same,21,0.00%
 2025-03-01,sku,oral mix,12,same,21,0.00%
 2025-04-01,sku,oral mix,0,any,22,100.00%
-2025-04-01,sku,oral mix,1,any,22,59.09%
-2025-04-01,sku,oral mix,2,any,22,54.55%
-2025-04-01,sku,oral mix,3,any,22,54.55%
-2025-04-01,sku,oral mix,4,any,22,13.64%
-2025-04-01,sku,oral mix,5,any,22,0.00%
+2025-04-01,sku,oral mix,1,any,22,77.27%
+2025-04-01,sku,oral mix,2,any,22,68.18%
+2025-04-01,sku,oral mix,3,any,22,59.09%
+2025-04-01,sku,oral mix,4,any,22,22.73%
+2025-04-01,sku,oral mix,5,any,22,4.55%
 2025-04-01,sku,oral mix,6,any,22,0.00%
 2025-04-01,sku,oral mix,7,any,22,0.00%
 2025-04-01,sku,oral mix,8,any,22,0.00%
@@ -2600,11 +2457,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,oral mix,11,any,22,0.00%
 2025-04-01,sku,oral mix,12,any,22,0.00%
 2025-04-01,sku,oral mix,0,same,22,100.00%
-2025-04-01,sku,oral mix,1,same,22,54.55%
-2025-04-01,sku,oral mix,2,same,22,50.00%
-2025-04-01,sku,oral mix,3,same,22,40.91%
-2025-04-01,sku,oral mix,4,same,22,13.64%
-2025-04-01,sku,oral mix,5,same,22,0.00%
+2025-04-01,sku,oral mix,1,same,22,72.73%
+2025-04-01,sku,oral mix,2,same,22,63.64%
+2025-04-01,sku,oral mix,3,same,22,45.45%
+2025-04-01,sku,oral mix,4,same,22,18.18%
+2025-04-01,sku,oral mix,5,same,22,4.55%
 2025-04-01,sku,oral mix,6,same,22,0.00%
 2025-04-01,sku,oral mix,7,same,22,0.00%
 2025-04-01,sku,oral mix,8,same,22,0.00%
@@ -2613,11 +2470,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,oral mix,11,same,22,0.00%
 2025-04-01,sku,oral mix,12,same,22,0.00%
 2025-05-01,sku,oral mix,0,any,22,100.00%
-2025-05-01,sku,oral mix,1,any,22,63.64%
-2025-05-01,sku,oral mix,2,any,22,63.64%
-2025-05-01,sku,oral mix,3,any,22,31.82%
-2025-05-01,sku,oral mix,4,any,22,0.00%
-2025-05-01,sku,oral mix,5,any,22,0.00%
+2025-05-01,sku,oral mix,1,any,22,86.36%
+2025-05-01,sku,oral mix,2,any,22,86.36%
+2025-05-01,sku,oral mix,3,any,22,36.36%
+2025-05-01,sku,oral mix,4,any,22,9.09%
+2025-05-01,sku,oral mix,5,any,22,9.09%
 2025-05-01,sku,oral mix,6,any,22,0.00%
 2025-05-01,sku,oral mix,7,any,22,0.00%
 2025-05-01,sku,oral mix,8,any,22,0.00%
@@ -2626,11 +2483,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,oral mix,11,any,22,0.00%
 2025-05-01,sku,oral mix,12,any,22,0.00%
 2025-05-01,sku,oral mix,0,same,22,100.00%
-2025-05-01,sku,oral mix,1,same,22,59.09%
-2025-05-01,sku,oral mix,2,same,22,63.64%
-2025-05-01,sku,oral mix,3,same,22,31.82%
-2025-05-01,sku,oral mix,4,same,22,0.00%
-2025-05-01,sku,oral mix,5,same,22,0.00%
+2025-05-01,sku,oral mix,1,same,22,81.82%
+2025-05-01,sku,oral mix,2,same,22,81.82%
+2025-05-01,sku,oral mix,3,same,22,36.36%
+2025-05-01,sku,oral mix,4,same,22,9.09%
+2025-05-01,sku,oral mix,5,same,22,9.09%
 2025-05-01,sku,oral mix,6,same,22,0.00%
 2025-05-01,sku,oral mix,7,same,22,0.00%
 2025-05-01,sku,oral mix,8,same,22,0.00%
@@ -2639,9 +2496,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,oral mix,11,same,22,0.00%
 2025-05-01,sku,oral mix,12,same,22,0.00%
 2025-06-01,sku,oral mix,0,any,25,100.00%
-2025-06-01,sku,oral mix,1,any,25,40.00%
-2025-06-01,sku,oral mix,2,any,25,20.00%
-2025-06-01,sku,oral mix,3,any,25,0.00%
+2025-06-01,sku,oral mix,1,any,25,80.00%
+2025-06-01,sku,oral mix,2,any,25,44.00%
+2025-06-01,sku,oral mix,3,any,25,12.00%
 2025-06-01,sku,oral mix,4,any,25,0.00%
 2025-06-01,sku,oral mix,5,any,25,0.00%
 2025-06-01,sku,oral mix,6,any,25,0.00%
@@ -2652,9 +2509,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,oral mix,11,any,25,0.00%
 2025-06-01,sku,oral mix,12,any,25,0.00%
 2025-06-01,sku,oral mix,0,same,25,100.00%
-2025-06-01,sku,oral mix,1,same,25,40.00%
-2025-06-01,sku,oral mix,2,same,25,16.00%
-2025-06-01,sku,oral mix,3,same,25,0.00%
+2025-06-01,sku,oral mix,1,same,25,80.00%
+2025-06-01,sku,oral mix,2,same,25,36.00%
+2025-06-01,sku,oral mix,3,same,25,8.00%
 2025-06-01,sku,oral mix,4,same,25,0.00%
 2025-06-01,sku,oral mix,5,same,25,0.00%
 2025-06-01,sku,oral mix,6,same,25,0.00%
@@ -2665,9 +2522,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,oral mix,11,same,25,0.00%
 2025-06-01,sku,oral mix,12,same,25,0.00%
 2025-07-01,sku,oral mix,0,any,27,100.00%
-2025-07-01,sku,oral mix,1,any,27,11.11%
-2025-07-01,sku,oral mix,2,any,27,0.00%
-2025-07-01,sku,oral mix,3,any,27,0.00%
+2025-07-01,sku,oral mix,1,any,27,70.37%
+2025-07-01,sku,oral mix,2,any,27,48.15%
+2025-07-01,sku,oral mix,3,any,27,3.70%
 2025-07-01,sku,oral mix,4,any,27,0.00%
 2025-07-01,sku,oral mix,5,any,27,0.00%
 2025-07-01,sku,oral mix,6,any,27,0.00%
@@ -2678,9 +2535,9 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,oral mix,11,any,27,0.00%
 2025-07-01,sku,oral mix,12,any,27,0.00%
 2025-07-01,sku,oral mix,0,same,27,100.00%
-2025-07-01,sku,oral mix,1,same,27,11.11%
-2025-07-01,sku,oral mix,2,same,27,0.00%
-2025-07-01,sku,oral mix,3,same,27,0.00%
+2025-07-01,sku,oral mix,1,same,27,70.37%
+2025-07-01,sku,oral mix,2,same,27,48.15%
+2025-07-01,sku,oral mix,3,same,27,3.70%
 2025-07-01,sku,oral mix,4,same,27,0.00%
 2025-07-01,sku,oral mix,5,same,27,0.00%
 2025-07-01,sku,oral mix,6,same,27,0.00%
@@ -2690,32 +2547,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,oral mix,10,same,27,0.00%
 2025-07-01,sku,oral mix,11,same,27,0.00%
 2025-07-01,sku,oral mix,12,same,27,0.00%
-2025-08-01,sku,oral mix,0,any,5,100.00%
-2025-08-01,sku,oral mix,1,any,5,0.00%
-2025-08-01,sku,oral mix,2,any,5,0.00%
-2025-08-01,sku,oral mix,3,any,5,0.00%
-2025-08-01,sku,oral mix,4,any,5,0.00%
-2025-08-01,sku,oral mix,5,any,5,0.00%
-2025-08-01,sku,oral mix,6,any,5,0.00%
-2025-08-01,sku,oral mix,7,any,5,0.00%
-2025-08-01,sku,oral mix,8,any,5,0.00%
-2025-08-01,sku,oral mix,9,any,5,0.00%
-2025-08-01,sku,oral mix,10,any,5,0.00%
-2025-08-01,sku,oral mix,11,any,5,0.00%
-2025-08-01,sku,oral mix,12,any,5,0.00%
-2025-08-01,sku,oral mix,0,same,5,100.00%
-2025-08-01,sku,oral mix,1,same,5,0.00%
-2025-08-01,sku,oral mix,2,same,5,0.00%
-2025-08-01,sku,oral mix,3,same,5,0.00%
-2025-08-01,sku,oral mix,4,same,5,0.00%
-2025-08-01,sku,oral mix,5,same,5,0.00%
-2025-08-01,sku,oral mix,6,same,5,0.00%
-2025-08-01,sku,oral mix,7,same,5,0.00%
-2025-08-01,sku,oral mix,8,same,5,0.00%
-2025-08-01,sku,oral mix,9,same,5,0.00%
-2025-08-01,sku,oral mix,10,same,5,0.00%
-2025-08-01,sku,oral mix,11,same,5,0.00%
-2025-08-01,sku,oral mix,12,same,5,0.00%
 2024-10-01,sku,power regrowth,0,any,2,100.00%
 2024-10-01,sku,power regrowth,1,any,2,50.00%
 2024-10-01,sku,power regrowth,2,any,2,50.00%
@@ -2743,23 +2574,23 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2024-10-01,sku,power regrowth,11,same,2,0.00%
 2024-10-01,sku,power regrowth,12,same,2,0.00%
 2024-12-01,sku,power regrowth,0,any,5,100.00%
-2024-12-01,sku,power regrowth,1,any,5,60.00%
+2024-12-01,sku,power regrowth,1,any,5,80.00%
 2024-12-01,sku,power regrowth,2,any,5,60.00%
-2024-12-01,sku,power regrowth,3,any,5,60.00%
-2024-12-01,sku,power regrowth,4,any,5,60.00%
+2024-12-01,sku,power regrowth,3,any,5,80.00%
+2024-12-01,sku,power regrowth,4,any,5,80.00%
 2024-12-01,sku,power regrowth,5,any,5,80.00%
-2024-12-01,sku,power regrowth,6,any,5,20.00%
-2024-12-01,sku,power regrowth,7,any,5,20.00%
+2024-12-01,sku,power regrowth,6,any,5,40.00%
+2024-12-01,sku,power regrowth,7,any,5,40.00%
 2024-12-01,sku,power regrowth,8,any,5,0.00%
 2024-12-01,sku,power regrowth,9,any,5,0.00%
 2024-12-01,sku,power regrowth,10,any,5,0.00%
 2024-12-01,sku,power regrowth,11,any,5,0.00%
 2024-12-01,sku,power regrowth,12,any,5,0.00%
 2024-12-01,sku,power regrowth,0,same,5,100.00%
-2024-12-01,sku,power regrowth,1,same,5,60.00%
+2024-12-01,sku,power regrowth,1,same,5,80.00%
 2024-12-01,sku,power regrowth,2,same,5,60.00%
-2024-12-01,sku,power regrowth,3,same,5,40.00%
-2024-12-01,sku,power regrowth,4,same,5,20.00%
+2024-12-01,sku,power regrowth,3,same,5,60.00%
+2024-12-01,sku,power regrowth,4,same,5,40.00%
 2024-12-01,sku,power regrowth,5,same,5,20.00%
 2024-12-01,sku,power regrowth,6,same,5,0.00%
 2024-12-01,sku,power regrowth,7,same,5,0.00%
@@ -2769,11 +2600,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2024-12-01,sku,power regrowth,11,same,5,0.00%
 2024-12-01,sku,power regrowth,12,same,5,0.00%
 2025-02-01,sku,power regrowth,0,any,1,100.00%
-2025-02-01,sku,power regrowth,1,any,1,0.00%
+2025-02-01,sku,power regrowth,1,any,1,100.00%
 2025-02-01,sku,power regrowth,2,any,1,100.00%
-2025-02-01,sku,power regrowth,3,any,1,0.00%
+2025-02-01,sku,power regrowth,3,any,1,100.00%
 2025-02-01,sku,power regrowth,4,any,1,100.00%
-2025-02-01,sku,power regrowth,5,any,1,0.00%
+2025-02-01,sku,power regrowth,5,any,1,100.00%
 2025-02-01,sku,power regrowth,6,any,1,0.00%
 2025-02-01,sku,power regrowth,7,any,1,0.00%
 2025-02-01,sku,power regrowth,8,any,1,0.00%
@@ -2782,11 +2613,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-02-01,sku,power regrowth,11,any,1,0.00%
 2025-02-01,sku,power regrowth,12,any,1,0.00%
 2025-02-01,sku,power regrowth,0,same,1,100.00%
-2025-02-01,sku,power regrowth,1,same,1,0.00%
+2025-02-01,sku,power regrowth,1,same,1,100.00%
 2025-02-01,sku,power regrowth,2,same,1,100.00%
-2025-02-01,sku,power regrowth,3,same,1,0.00%
+2025-02-01,sku,power regrowth,3,same,1,100.00%
 2025-02-01,sku,power regrowth,4,same,1,100.00%
-2025-02-01,sku,power regrowth,5,same,1,0.00%
+2025-02-01,sku,power regrowth,5,same,1,100.00%
 2025-02-01,sku,power regrowth,6,same,1,0.00%
 2025-02-01,sku,power regrowth,7,same,1,0.00%
 2025-02-01,sku,power regrowth,8,same,1,0.00%
@@ -2821,12 +2652,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,power regrowth,11,same,3,0.00%
 2025-03-01,sku,power regrowth,12,same,3,0.00%
 2025-04-01,sku,power regrowth,0,any,5,100.00%
-2025-04-01,sku,power regrowth,1,any,5,20.00%
-2025-04-01,sku,power regrowth,2,any,5,20.00%
+2025-04-01,sku,power regrowth,1,any,5,80.00%
+2025-04-01,sku,power regrowth,2,any,5,80.00%
 2025-04-01,sku,power regrowth,3,any,5,40.00%
-2025-04-01,sku,power regrowth,4,any,5,20.00%
-2025-04-01,sku,power regrowth,5,any,5,0.00%
-2025-04-01,sku,power regrowth,6,any,5,0.00%
+2025-04-01,sku,power regrowth,4,any,5,40.00%
+2025-04-01,sku,power regrowth,5,any,5,40.00%
+2025-04-01,sku,power regrowth,6,any,5,20.00%
 2025-04-01,sku,power regrowth,7,any,5,0.00%
 2025-04-01,sku,power regrowth,8,any,5,0.00%
 2025-04-01,sku,power regrowth,9,any,5,0.00%
@@ -2834,12 +2665,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,power regrowth,11,any,5,0.00%
 2025-04-01,sku,power regrowth,12,any,5,0.00%
 2025-04-01,sku,power regrowth,0,same,5,100.00%
-2025-04-01,sku,power regrowth,1,same,5,20.00%
-2025-04-01,sku,power regrowth,2,same,5,20.00%
+2025-04-01,sku,power regrowth,1,same,5,80.00%
+2025-04-01,sku,power regrowth,2,same,5,80.00%
 2025-04-01,sku,power regrowth,3,same,5,40.00%
-2025-04-01,sku,power regrowth,4,same,5,20.00%
-2025-04-01,sku,power regrowth,5,same,5,0.00%
-2025-04-01,sku,power regrowth,6,same,5,0.00%
+2025-04-01,sku,power regrowth,4,same,5,40.00%
+2025-04-01,sku,power regrowth,5,same,5,40.00%
+2025-04-01,sku,power regrowth,6,same,5,20.00%
 2025-04-01,sku,power regrowth,7,same,5,0.00%
 2025-04-01,sku,power regrowth,8,same,5,0.00%
 2025-04-01,sku,power regrowth,9,same,5,0.00%
@@ -2848,7 +2679,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,power regrowth,12,same,5,0.00%
 2025-05-01,sku,power regrowth,0,any,7,100.00%
 2025-05-01,sku,power regrowth,1,any,7,71.43%
-2025-05-01,sku,power regrowth,2,any,7,42.86%
+2025-05-01,sku,power regrowth,2,any,7,57.14%
 2025-05-01,sku,power regrowth,3,any,7,0.00%
 2025-05-01,sku,power regrowth,4,any,7,0.00%
 2025-05-01,sku,power regrowth,5,any,7,0.00%
@@ -2861,7 +2692,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,power regrowth,12,any,7,0.00%
 2025-05-01,sku,power regrowth,0,same,7,100.00%
 2025-05-01,sku,power regrowth,1,same,7,71.43%
-2025-05-01,sku,power regrowth,2,same,7,42.86%
+2025-05-01,sku,power regrowth,2,same,7,57.14%
 2025-05-01,sku,power regrowth,3,same,7,0.00%
 2025-05-01,sku,power regrowth,4,same,7,0.00%
 2025-05-01,sku,power regrowth,5,same,7,0.00%
@@ -2873,10 +2704,10 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,power regrowth,11,same,7,0.00%
 2025-05-01,sku,power regrowth,12,same,7,0.00%
 2025-06-01,sku,power regrowth,0,any,5,100.00%
-2025-06-01,sku,power regrowth,1,any,5,40.00%
-2025-06-01,sku,power regrowth,2,any,5,20.00%
-2025-06-01,sku,power regrowth,3,any,5,0.00%
-2025-06-01,sku,power regrowth,4,any,5,0.00%
+2025-06-01,sku,power regrowth,1,any,5,80.00%
+2025-06-01,sku,power regrowth,2,any,5,40.00%
+2025-06-01,sku,power regrowth,3,any,5,20.00%
+2025-06-01,sku,power regrowth,4,any,5,20.00%
 2025-06-01,sku,power regrowth,5,any,5,0.00%
 2025-06-01,sku,power regrowth,6,any,5,0.00%
 2025-06-01,sku,power regrowth,7,any,5,0.00%
@@ -2886,10 +2717,10 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,power regrowth,11,any,5,0.00%
 2025-06-01,sku,power regrowth,12,any,5,0.00%
 2025-06-01,sku,power regrowth,0,same,5,100.00%
-2025-06-01,sku,power regrowth,1,same,5,40.00%
-2025-06-01,sku,power regrowth,2,same,5,20.00%
-2025-06-01,sku,power regrowth,3,same,5,0.00%
-2025-06-01,sku,power regrowth,4,same,5,0.00%
+2025-06-01,sku,power regrowth,1,same,5,80.00%
+2025-06-01,sku,power regrowth,2,same,5,40.00%
+2025-06-01,sku,power regrowth,3,same,5,20.00%
+2025-06-01,sku,power regrowth,4,same,5,20.00%
 2025-06-01,sku,power regrowth,5,same,5,0.00%
 2025-06-01,sku,power regrowth,6,same,5,0.00%
 2025-06-01,sku,power regrowth,7,same,5,0.00%
@@ -2899,8 +2730,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,power regrowth,11,same,5,0.00%
 2025-06-01,sku,power regrowth,12,same,5,0.00%
 2025-07-01,sku,power regrowth,0,any,4,100.00%
-2025-07-01,sku,power regrowth,1,any,4,0.00%
-2025-07-01,sku,power regrowth,2,any,4,0.00%
+2025-07-01,sku,power regrowth,1,any,4,50.00%
+2025-07-01,sku,power regrowth,2,any,4,50.00%
 2025-07-01,sku,power regrowth,3,any,4,0.00%
 2025-07-01,sku,power regrowth,4,any,4,0.00%
 2025-07-01,sku,power regrowth,5,any,4,0.00%
@@ -2912,8 +2743,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,power regrowth,11,any,4,0.00%
 2025-07-01,sku,power regrowth,12,any,4,0.00%
 2025-07-01,sku,power regrowth,0,same,4,100.00%
-2025-07-01,sku,power regrowth,1,same,4,0.00%
-2025-07-01,sku,power regrowth,2,same,4,0.00%
+2025-07-01,sku,power regrowth,1,same,4,50.00%
+2025-07-01,sku,power regrowth,2,same,4,50.00%
 2025-07-01,sku,power regrowth,3,same,4,0.00%
 2025-07-01,sku,power regrowth,4,same,4,0.00%
 2025-07-01,sku,power regrowth,5,same,4,0.00%
@@ -2924,38 +2755,12 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,power regrowth,10,same,4,0.00%
 2025-07-01,sku,power regrowth,11,same,4,0.00%
 2025-07-01,sku,power regrowth,12,same,4,0.00%
-2025-08-01,sku,power regrowth,0,any,1,100.00%
-2025-08-01,sku,power regrowth,1,any,1,0.00%
-2025-08-01,sku,power regrowth,2,any,1,0.00%
-2025-08-01,sku,power regrowth,3,any,1,0.00%
-2025-08-01,sku,power regrowth,4,any,1,0.00%
-2025-08-01,sku,power regrowth,5,any,1,0.00%
-2025-08-01,sku,power regrowth,6,any,1,0.00%
-2025-08-01,sku,power regrowth,7,any,1,0.00%
-2025-08-01,sku,power regrowth,8,any,1,0.00%
-2025-08-01,sku,power regrowth,9,any,1,0.00%
-2025-08-01,sku,power regrowth,10,any,1,0.00%
-2025-08-01,sku,power regrowth,11,any,1,0.00%
-2025-08-01,sku,power regrowth,12,any,1,0.00%
-2025-08-01,sku,power regrowth,0,same,1,100.00%
-2025-08-01,sku,power regrowth,1,same,1,0.00%
-2025-08-01,sku,power regrowth,2,same,1,0.00%
-2025-08-01,sku,power regrowth,3,same,1,0.00%
-2025-08-01,sku,power regrowth,4,same,1,0.00%
-2025-08-01,sku,power regrowth,5,same,1,0.00%
-2025-08-01,sku,power regrowth,6,same,1,0.00%
-2025-08-01,sku,power regrowth,7,same,1,0.00%
-2025-08-01,sku,power regrowth,8,same,1,0.00%
-2025-08-01,sku,power regrowth,9,same,1,0.00%
-2025-08-01,sku,power regrowth,10,same,1,0.00%
-2025-08-01,sku,power regrowth,11,same,1,0.00%
-2025-08-01,sku,power regrowth,12,same,1,0.00%
 2025-03-01,sku,regrowth pack,0,any,9,100.00%
-2025-03-01,sku,regrowth pack,1,any,9,0.00%
+2025-03-01,sku,regrowth pack,1,any,9,22.22%
 2025-03-01,sku,regrowth pack,2,any,9,22.22%
-2025-03-01,sku,regrowth pack,3,any,9,11.11%
+2025-03-01,sku,regrowth pack,3,any,9,22.22%
 2025-03-01,sku,regrowth pack,4,any,9,22.22%
-2025-03-01,sku,regrowth pack,5,any,9,0.00%
+2025-03-01,sku,regrowth pack,5,any,9,22.22%
 2025-03-01,sku,regrowth pack,6,any,9,0.00%
 2025-03-01,sku,regrowth pack,7,any,9,0.00%
 2025-03-01,sku,regrowth pack,8,any,9,0.00%
@@ -2964,8 +2769,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,regrowth pack,11,any,9,0.00%
 2025-03-01,sku,regrowth pack,12,any,9,0.00%
 2025-03-01,sku,regrowth pack,0,same,9,100.00%
-2025-03-01,sku,regrowth pack,1,same,9,0.00%
-2025-03-01,sku,regrowth pack,2,same,9,0.00%
+2025-03-01,sku,regrowth pack,1,same,9,22.22%
+2025-03-01,sku,regrowth pack,2,same,9,11.11%
 2025-03-01,sku,regrowth pack,3,same,9,0.00%
 2025-03-01,sku,regrowth pack,4,same,9,0.00%
 2025-03-01,sku,regrowth pack,5,same,9,0.00%
@@ -3029,8 +2834,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,regrowth pack,11,same,1,0.00%
 2025-05-01,sku,regrowth pack,12,same,1,0.00%
 2025-06-01,sku,regrowth pack,0,any,1,100.00%
-2025-06-01,sku,regrowth pack,1,any,1,0.00%
-2025-06-01,sku,regrowth pack,2,any,1,0.00%
+2025-06-01,sku,regrowth pack,1,any,1,100.00%
+2025-06-01,sku,regrowth pack,2,any,1,100.00%
 2025-06-01,sku,regrowth pack,3,any,1,0.00%
 2025-06-01,sku,regrowth pack,4,any,1,0.00%
 2025-06-01,sku,regrowth pack,5,any,1,0.00%
@@ -3042,8 +2847,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,regrowth pack,11,any,1,0.00%
 2025-06-01,sku,regrowth pack,12,any,1,0.00%
 2025-06-01,sku,regrowth pack,0,same,1,100.00%
-2025-06-01,sku,regrowth pack,1,same,1,0.00%
-2025-06-01,sku,regrowth pack,2,same,1,0.00%
+2025-06-01,sku,regrowth pack,1,same,1,100.00%
+2025-06-01,sku,regrowth pack,2,same,1,100.00%
 2025-06-01,sku,regrowth pack,3,same,1,0.00%
 2025-06-01,sku,regrowth pack,4,same,1,0.00%
 2025-06-01,sku,regrowth pack,5,same,1,0.00%
@@ -3080,32 +2885,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,regrowth pack,10,same,1,0.00%
 2025-07-01,sku,regrowth pack,11,same,1,0.00%
 2025-07-01,sku,regrowth pack,12,same,1,0.00%
-2025-08-01,sku,regrowth pack,0,any,1,100.00%
-2025-08-01,sku,regrowth pack,1,any,1,0.00%
-2025-08-01,sku,regrowth pack,2,any,1,0.00%
-2025-08-01,sku,regrowth pack,3,any,1,0.00%
-2025-08-01,sku,regrowth pack,4,any,1,0.00%
-2025-08-01,sku,regrowth pack,5,any,1,0.00%
-2025-08-01,sku,regrowth pack,6,any,1,0.00%
-2025-08-01,sku,regrowth pack,7,any,1,0.00%
-2025-08-01,sku,regrowth pack,8,any,1,0.00%
-2025-08-01,sku,regrowth pack,9,any,1,0.00%
-2025-08-01,sku,regrowth pack,10,any,1,0.00%
-2025-08-01,sku,regrowth pack,11,any,1,0.00%
-2025-08-01,sku,regrowth pack,12,any,1,0.00%
-2025-08-01,sku,regrowth pack,0,same,1,100.00%
-2025-08-01,sku,regrowth pack,1,same,1,0.00%
-2025-08-01,sku,regrowth pack,2,same,1,0.00%
-2025-08-01,sku,regrowth pack,3,same,1,0.00%
-2025-08-01,sku,regrowth pack,4,same,1,0.00%
-2025-08-01,sku,regrowth pack,5,same,1,0.00%
-2025-08-01,sku,regrowth pack,6,same,1,0.00%
-2025-08-01,sku,regrowth pack,7,same,1,0.00%
-2025-08-01,sku,regrowth pack,8,same,1,0.00%
-2025-08-01,sku,regrowth pack,9,same,1,0.00%
-2025-08-01,sku,regrowth pack,10,same,1,0.00%
-2025-08-01,sku,regrowth pack,11,same,1,0.00%
-2025-08-01,sku,regrowth pack,12,same,1,0.00%
 2025-03-01,sku,shampoo,0,any,1,100.00%
 2025-03-01,sku,shampoo,1,any,1,0.00%
 2025-03-01,sku,shampoo,2,any,1,0.00%
@@ -3159,8 +2938,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,shampoo,11,same,1,0.00%
 2025-04-01,sku,shampoo,12,same,1,0.00%
 2025-05-01,sku,shampoo,0,any,3,100.00%
-2025-05-01,sku,shampoo,1,any,3,33.33%
-2025-05-01,sku,shampoo,2,any,3,33.33%
+2025-05-01,sku,shampoo,1,any,3,66.67%
+2025-05-01,sku,shampoo,2,any,3,66.67%
 2025-05-01,sku,shampoo,3,any,3,0.00%
 2025-05-01,sku,shampoo,4,any,3,0.00%
 2025-05-01,sku,shampoo,5,any,3,0.00%
@@ -3172,8 +2951,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,shampoo,11,any,3,0.00%
 2025-05-01,sku,shampoo,12,any,3,0.00%
 2025-05-01,sku,shampoo,0,same,3,100.00%
-2025-05-01,sku,shampoo,1,same,3,0.00%
-2025-05-01,sku,shampoo,2,same,3,0.00%
+2025-05-01,sku,shampoo,1,same,3,33.33%
+2025-05-01,sku,shampoo,2,same,3,33.33%
 2025-05-01,sku,shampoo,3,same,3,0.00%
 2025-05-01,sku,shampoo,4,same,3,0.00%
 2025-05-01,sku,shampoo,5,same,3,0.00%
@@ -3184,32 +2963,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,shampoo,10,same,3,0.00%
 2025-05-01,sku,shampoo,11,same,3,0.00%
 2025-05-01,sku,shampoo,12,same,3,0.00%
-2025-08-01,sku,shampoo,0,any,2,100.00%
-2025-08-01,sku,shampoo,1,any,2,0.00%
-2025-08-01,sku,shampoo,2,any,2,0.00%
-2025-08-01,sku,shampoo,3,any,2,0.00%
-2025-08-01,sku,shampoo,4,any,2,0.00%
-2025-08-01,sku,shampoo,5,any,2,0.00%
-2025-08-01,sku,shampoo,6,any,2,0.00%
-2025-08-01,sku,shampoo,7,any,2,0.00%
-2025-08-01,sku,shampoo,8,any,2,0.00%
-2025-08-01,sku,shampoo,9,any,2,0.00%
-2025-08-01,sku,shampoo,10,any,2,0.00%
-2025-08-01,sku,shampoo,11,any,2,0.00%
-2025-08-01,sku,shampoo,12,any,2,0.00%
-2025-08-01,sku,shampoo,0,same,2,100.00%
-2025-08-01,sku,shampoo,1,same,2,0.00%
-2025-08-01,sku,shampoo,2,same,2,0.00%
-2025-08-01,sku,shampoo,3,same,2,0.00%
-2025-08-01,sku,shampoo,4,same,2,0.00%
-2025-08-01,sku,shampoo,5,same,2,0.00%
-2025-08-01,sku,shampoo,6,same,2,0.00%
-2025-08-01,sku,shampoo,7,same,2,0.00%
-2025-08-01,sku,shampoo,8,same,2,0.00%
-2025-08-01,sku,shampoo,9,same,2,0.00%
-2025-08-01,sku,shampoo,10,same,2,0.00%
-2025-08-01,sku,shampoo,11,same,2,0.00%
-2025-08-01,sku,shampoo,12,same,2,0.00%
 2024-10-01,sku,ultimate revival,0,any,1,100.00%
 2024-10-01,sku,ultimate revival,1,any,1,100.00%
 2024-10-01,sku,ultimate revival,2,any,1,100.00%
@@ -3269,7 +3022,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2024-12-01,sku,ultimate revival,4,any,3,100.00%
 2024-12-01,sku,ultimate revival,5,any,3,66.67%
 2024-12-01,sku,ultimate revival,6,any,3,100.00%
-2024-12-01,sku,ultimate revival,7,any,3,33.33%
+2024-12-01,sku,ultimate revival,7,any,3,66.67%
 2024-12-01,sku,ultimate revival,8,any,3,66.67%
 2024-12-01,sku,ultimate revival,9,any,3,0.00%
 2024-12-01,sku,ultimate revival,10,any,3,0.00%
@@ -3341,11 +3094,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-03-01,sku,ultimate revival,11,same,1,0.00%
 2025-03-01,sku,ultimate revival,12,same,1,0.00%
 2025-04-01,sku,ultimate revival,0,any,8,100.00%
-2025-04-01,sku,ultimate revival,1,any,8,50.00%
-2025-04-01,sku,ultimate revival,2,any,8,62.50%
-2025-04-01,sku,ultimate revival,3,any,8,50.00%
-2025-04-01,sku,ultimate revival,4,any,8,0.00%
-2025-04-01,sku,ultimate revival,5,any,8,0.00%
+2025-04-01,sku,ultimate revival,1,any,8,87.50%
+2025-04-01,sku,ultimate revival,2,any,8,75.00%
+2025-04-01,sku,ultimate revival,3,any,8,62.50%
+2025-04-01,sku,ultimate revival,4,any,8,25.00%
+2025-04-01,sku,ultimate revival,5,any,8,12.50%
 2025-04-01,sku,ultimate revival,6,any,8,0.00%
 2025-04-01,sku,ultimate revival,7,any,8,0.00%
 2025-04-01,sku,ultimate revival,8,any,8,0.00%
@@ -3354,11 +3107,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,ultimate revival,11,any,8,0.00%
 2025-04-01,sku,ultimate revival,12,any,8,0.00%
 2025-04-01,sku,ultimate revival,0,same,8,100.00%
-2025-04-01,sku,ultimate revival,1,same,8,37.50%
-2025-04-01,sku,ultimate revival,2,same,8,50.00%
-2025-04-01,sku,ultimate revival,3,same,8,37.50%
-2025-04-01,sku,ultimate revival,4,same,8,0.00%
-2025-04-01,sku,ultimate revival,5,same,8,0.00%
+2025-04-01,sku,ultimate revival,1,same,8,75.00%
+2025-04-01,sku,ultimate revival,2,same,8,62.50%
+2025-04-01,sku,ultimate revival,3,same,8,50.00%
+2025-04-01,sku,ultimate revival,4,same,8,25.00%
+2025-04-01,sku,ultimate revival,5,same,8,12.50%
 2025-04-01,sku,ultimate revival,6,same,8,0.00%
 2025-04-01,sku,ultimate revival,7,same,8,0.00%
 2025-04-01,sku,ultimate revival,8,same,8,0.00%
@@ -3367,11 +3120,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-04-01,sku,ultimate revival,11,same,8,0.00%
 2025-04-01,sku,ultimate revival,12,same,8,0.00%
 2025-05-01,sku,ultimate revival,0,any,12,100.00%
-2025-05-01,sku,ultimate revival,1,any,12,66.67%
-2025-05-01,sku,ultimate revival,2,any,12,41.67%
-2025-05-01,sku,ultimate revival,3,any,12,0.00%
-2025-05-01,sku,ultimate revival,4,any,12,0.00%
-2025-05-01,sku,ultimate revival,5,any,12,0.00%
+2025-05-01,sku,ultimate revival,1,any,12,91.67%
+2025-05-01,sku,ultimate revival,2,any,12,50.00%
+2025-05-01,sku,ultimate revival,3,any,12,33.33%
+2025-05-01,sku,ultimate revival,4,any,12,25.00%
+2025-05-01,sku,ultimate revival,5,any,12,8.33%
 2025-05-01,sku,ultimate revival,6,any,12,0.00%
 2025-05-01,sku,ultimate revival,7,any,12,0.00%
 2025-05-01,sku,ultimate revival,8,any,12,0.00%
@@ -3380,11 +3133,11 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,ultimate revival,11,any,12,0.00%
 2025-05-01,sku,ultimate revival,12,any,12,0.00%
 2025-05-01,sku,ultimate revival,0,same,12,100.00%
-2025-05-01,sku,ultimate revival,1,same,12,50.00%
-2025-05-01,sku,ultimate revival,2,same,12,33.33%
-2025-05-01,sku,ultimate revival,3,same,12,0.00%
-2025-05-01,sku,ultimate revival,4,same,12,0.00%
-2025-05-01,sku,ultimate revival,5,same,12,0.00%
+2025-05-01,sku,ultimate revival,1,same,12,83.33%
+2025-05-01,sku,ultimate revival,2,same,12,41.67%
+2025-05-01,sku,ultimate revival,3,same,12,25.00%
+2025-05-01,sku,ultimate revival,4,same,12,16.67%
+2025-05-01,sku,ultimate revival,5,same,12,8.33%
 2025-05-01,sku,ultimate revival,6,same,12,0.00%
 2025-05-01,sku,ultimate revival,7,same,12,0.00%
 2025-05-01,sku,ultimate revival,8,same,12,0.00%
@@ -3393,7 +3146,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-05-01,sku,ultimate revival,11,same,12,0.00%
 2025-05-01,sku,ultimate revival,12,same,12,0.00%
 2025-06-01,sku,ultimate revival,0,any,6,100.00%
-2025-06-01,sku,ultimate revival,1,any,6,50.00%
+2025-06-01,sku,ultimate revival,1,any,6,66.67%
 2025-06-01,sku,ultimate revival,2,any,6,0.00%
 2025-06-01,sku,ultimate revival,3,any,6,0.00%
 2025-06-01,sku,ultimate revival,4,any,6,0.00%
@@ -3406,7 +3159,7 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,ultimate revival,11,any,6,0.00%
 2025-06-01,sku,ultimate revival,12,any,6,0.00%
 2025-06-01,sku,ultimate revival,0,same,6,100.00%
-2025-06-01,sku,ultimate revival,1,same,6,50.00%
+2025-06-01,sku,ultimate revival,1,same,6,66.67%
 2025-06-01,sku,ultimate revival,2,same,6,0.00%
 2025-06-01,sku,ultimate revival,3,same,6,0.00%
 2025-06-01,sku,ultimate revival,4,same,6,0.00%
@@ -3419,8 +3172,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-06-01,sku,ultimate revival,11,same,6,0.00%
 2025-06-01,sku,ultimate revival,12,same,6,0.00%
 2025-07-01,sku,ultimate revival,0,any,6,100.00%
-2025-07-01,sku,ultimate revival,1,any,6,16.67%
-2025-07-01,sku,ultimate revival,2,any,6,0.00%
+2025-07-01,sku,ultimate revival,1,any,6,50.00%
+2025-07-01,sku,ultimate revival,2,any,6,33.33%
 2025-07-01,sku,ultimate revival,3,any,6,0.00%
 2025-07-01,sku,ultimate revival,4,any,6,0.00%
 2025-07-01,sku,ultimate revival,5,any,6,0.00%
@@ -3432,8 +3185,8 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,ultimate revival,11,any,6,0.00%
 2025-07-01,sku,ultimate revival,12,any,6,0.00%
 2025-07-01,sku,ultimate revival,0,same,6,100.00%
-2025-07-01,sku,ultimate revival,1,same,6,16.67%
-2025-07-01,sku,ultimate revival,2,same,6,0.00%
+2025-07-01,sku,ultimate revival,1,same,6,50.00%
+2025-07-01,sku,ultimate revival,2,same,6,33.33%
 2025-07-01,sku,ultimate revival,3,same,6,0.00%
 2025-07-01,sku,ultimate revival,4,same,6,0.00%
 2025-07-01,sku,ultimate revival,5,same,6,0.00%
@@ -3444,32 +3197,6 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,ultimate revival,10,same,6,0.00%
 2025-07-01,sku,ultimate revival,11,same,6,0.00%
 2025-07-01,sku,ultimate revival,12,same,6,0.00%
-2025-08-01,sku,ultimate revival,0,any,3,100.00%
-2025-08-01,sku,ultimate revival,1,any,3,0.00%
-2025-08-01,sku,ultimate revival,2,any,3,0.00%
-2025-08-01,sku,ultimate revival,3,any,3,0.00%
-2025-08-01,sku,ultimate revival,4,any,3,0.00%
-2025-08-01,sku,ultimate revival,5,any,3,0.00%
-2025-08-01,sku,ultimate revival,6,any,3,0.00%
-2025-08-01,sku,ultimate revival,7,any,3,0.00%
-2025-08-01,sku,ultimate revival,8,any,3,0.00%
-2025-08-01,sku,ultimate revival,9,any,3,0.00%
-2025-08-01,sku,ultimate revival,10,any,3,0.00%
-2025-08-01,sku,ultimate revival,11,any,3,0.00%
-2025-08-01,sku,ultimate revival,12,any,3,0.00%
-2025-08-01,sku,ultimate revival,0,same,3,100.00%
-2025-08-01,sku,ultimate revival,1,same,3,0.00%
-2025-08-01,sku,ultimate revival,2,same,3,0.00%
-2025-08-01,sku,ultimate revival,3,same,3,0.00%
-2025-08-01,sku,ultimate revival,4,same,3,0.00%
-2025-08-01,sku,ultimate revival,5,same,3,0.00%
-2025-08-01,sku,ultimate revival,6,same,3,0.00%
-2025-08-01,sku,ultimate revival,7,same,3,0.00%
-2025-08-01,sku,ultimate revival,8,same,3,0.00%
-2025-08-01,sku,ultimate revival,9,same,3,0.00%
-2025-08-01,sku,ultimate revival,10,same,3,0.00%
-2025-08-01,sku,ultimate revival,11,same,3,0.00%
-2025-08-01,sku,ultimate revival,12,same,3,0.00%
 2024-12-01,sku,vital recharge,0,any,3,100.00%
 2024-12-01,sku,vital recharge,1,any,3,33.33%
 2024-12-01,sku,vital recharge,2,any,3,33.33%
@@ -3652,29 +3379,3 @@ cohort_month,dimension,first_value,m,metric,cohort_size,retention
 2025-07-01,sku,vital recharge,10,same,2,0.00%
 2025-07-01,sku,vital recharge,11,same,2,0.00%
 2025-07-01,sku,vital recharge,12,same,2,0.00%
-2025-08-01,sku,vital recharge,0,any,2,100.00%
-2025-08-01,sku,vital recharge,1,any,2,0.00%
-2025-08-01,sku,vital recharge,2,any,2,0.00%
-2025-08-01,sku,vital recharge,3,any,2,0.00%
-2025-08-01,sku,vital recharge,4,any,2,0.00%
-2025-08-01,sku,vital recharge,5,any,2,0.00%
-2025-08-01,sku,vital recharge,6,any,2,0.00%
-2025-08-01,sku,vital recharge,7,any,2,0.00%
-2025-08-01,sku,vital recharge,8,any,2,0.00%
-2025-08-01,sku,vital recharge,9,any,2,0.00%
-2025-08-01,sku,vital recharge,10,any,2,0.00%
-2025-08-01,sku,vital recharge,11,any,2,0.00%
-2025-08-01,sku,vital recharge,12,any,2,0.00%
-2025-08-01,sku,vital recharge,0,same,2,100.00%
-2025-08-01,sku,vital recharge,1,same,2,0.00%
-2025-08-01,sku,vital recharge,2,same,2,0.00%
-2025-08-01,sku,vital recharge,3,same,2,0.00%
-2025-08-01,sku,vital recharge,4,same,2,0.00%
-2025-08-01,sku,vital recharge,5,same,2,0.00%
-2025-08-01,sku,vital recharge,6,same,2,0.00%
-2025-08-01,sku,vital recharge,7,same,2,0.00%
-2025-08-01,sku,vital recharge,8,same,2,0.00%
-2025-08-01,sku,vital recharge,9,same,2,0.00%
-2025-08-01,sku,vital recharge,10,same,2,0.00%
-2025-08-01,sku,vital recharge,11,same,2,0.00%
-2025-08-01,sku,vital recharge,12,same,2,0.00%
